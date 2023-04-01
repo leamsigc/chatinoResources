@@ -9,7 +9,7 @@ const { textContent, link } = toRefs(prop)
 </script>
 
 <template>
-  <a :href="link ? link : '#'" class="btn btn-secondary">{{ textContent }}</a>
+  <a :href="link ? link : '#'" class="block w-full rounded  bg-teal-600  px-12 py-3 text-sm font-medium text-white shadow hover:bg-teal-700 focus:outline-none focus:ring active:bg-red-500 sm:w-auto">{{ textContent }}</a>
 </template>
 
 <style></style>
