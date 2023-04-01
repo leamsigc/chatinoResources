@@ -1,17 +1,17 @@
 ---
 layout: 'default'
 navLabel: 'About'
-title: 'About us - Giessen and Wetzlar Developers meetup'
-description: 'We are a community of software developers in Wetzlar | Giessen, Germany. Whether you love writing code or are just getting started, you are welcome here! '
+title: About Us - Connecting the World to Chatino Language and Culture
+description: We are a group of language enthusiasts dedicated to promoting and preserving the Chatino language and culture. Our mission is to provide comprehensive and accessible resources for learners and enthusiasts alike.
 draft: false
 navigation: true
 
 
 
-image:  
-    src: '/image.png'  
-    alt: 'Giessen and  Wezlar developer Group '  
-    width: 400  
+image:
+    src: '/image.png'
+    alt: About Us - Connecting the World to Chatino Language and Culture
+    width: 400
     height: 300
 
 head:
@@ -20,33 +20,41 @@ head:
     bodyAttrs:
         class: ''
     meta:
-        -   name: 'keywords' 
-            content: 'We are a community of software developers in Wetzlar | Giessen, Germany. Whether you love writing code or are just getting started, you are welcome here!'
+        -   name: 'keywords'
+            content:  'Chatino language, Chatino culture, language enthusiasts, language preservation, language resources'
         -   name: 'robots'
-            content: 'index, follow'    
-        -   name: 'author'      
+            content: 'index, follow'
+        -   name: 'author'
             content: 'Leamsigc'
         -   name: 'description'
-            content: 'We are a community of software developers in Wetzlar | Giessen, Germany. Whether you love writing code or are just getting started, you are welcome here! '
+            content: 'We are a group of language enthusiasts dedicated to promoting and preserving the Chatino language and culture. Our mission is to provide comprehensive and accessible resources for learners and enthusiasts alike.'
 
 ---
 
 ::Hero
 #title
-About the meetup group
+About Us - Connecting the World to
+#subTitle
+The Chatino Language and Culture
 #description
-We are a community of software developers in Giessen-Wetzlar, Germany. Whether you love writing code or are just getting started, you are welcome here!
+At Chatino.leamsigc.com, we are passionate about promoting and preserving the Chatino language and culture. Our team of language enthusiasts is dedicated to providing comprehensive and accessible resources for learners and enthusiasts alike.
 ::
 
 
-<div class='max-w-4xl mx-auto py-6 dark:text-white px-3' max-w-5xl>
+<div class='container mx-auto py-24 dark:text-white prose'>
 
-<h2 class='font-bold text-lg mb-3'>
-We're a community of software developers in Giessen-Wetzlar!  <br/>We host professional networking and learning events for developers seeking to grow
-</h2>
+## Our mission Is:
 
+<div class='mx-auto max-w-2xl text-center'>
+Our mission is to connect the world to the rich and vibrant culture of the Chatino people through language.
+We believe that language is the key to understanding and appreciating a culture,
+and we are committed to providing the tools and resources necessary to facilitate that understanding.
 
-<div class='px-4 py-3'>
-Giessen-Wetzlar Devs started as a group of developers for exchanging ideas. <br/> It became large enough that one friend decided to make it official. <br/>Thus Giessen-Wetzlar Devs was born. We're welcoming to all, <br/>whether your transitioning into the tech scene, <br/>or are already a seasoned developer
+Through our website, we aim to provide a platform for the Chatino language and culture to thrive.
+From language lessons to cultural events, we offer a wide range of resources designed to help learners
+and enthusiasts alike deepen their knowledge and appreciation of this unique and fascinating culture.
+
+Join us on our journey of discovery and help us preserve the Chatino language and culture for generations to come!
+
 </div>
 </div>

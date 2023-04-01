@@ -56,14 +56,14 @@ const { data } = await useAsyncData('footer', () =>
         <section class="flex justify-center gap-6 mt-8 sm:mt-0 lg:justify-end">
           <div>
             <img
-              src="/logo/DuckLogo.svg"
-              alt="Wetzlar developers meetup"
-              width="200px"
+              src="/img/logo-sm.png"
+              preload
+              alt="Chatino Podcast logo"
+              width="100px"
               height="100px"
-              loading="lazy"
+              loading="eager"
               decoding="async"
-              quality="80"
-              class="w-[150px] h-16 lg:h-12"
+              class=" h-12 w-12 rounded-full"
             >
           </div>
           <DarkToggle />
@@ -72,7 +72,3 @@ const { data } = await useAsyncData('footer', () =>
     </div>
   </footer>
 </template>
-
-<style scoped lang="scss">
-
-</style>

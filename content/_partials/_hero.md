@@ -1,11 +1,11 @@
 ---
-title: 'Giessen and Wetzlar Developers meetup'
-description: 'We are a community of software developers in Wetzlar | Giessen, Germany. Whether you love writing code or are just getting started, you are welcome here! '
+title: Listen to the Best Chatino Language Podcasts Online
+description: Discover the most popular Chatino Language podcasts and immerse yourself in the world of Chatino Language and culture.
 
-image:  
-    src: '/assets/image.png'  
-    alt: 'Giessen and  Wezlar developer Group '  
-    width: 400  
+image:
+    src: '/assets/image.png'
+    alt: ' Chatino language podcast'
+    width: 400
     height: 300
 
 head:
@@ -14,14 +14,14 @@ head:
     bodyAttrs:
         class: ''
     meta:
-        -   name: 'keywords' 
-            content: 'Giessen  and Wetzlar developer meetup group'
+        -   name: 'keywords'
+            content: Chatino language podcast
         -   name: 'robots'
-            content: 'index, follow'    
-        -   name: 'author'      
-            content: 'Leamsigc'
+            content: 'index, follow'
+        -   name: 'author'
+            content: 'Ismael Garcia'
         -   name: 'description'
-            content: 'We are a community of software developers in Wetzlar | Giessen, Germany. Whether you love writing code or are just getting started, you are welcome here! '
+            content: Discover the most popular Chatino Language podcasts and immerse yourself in the world of Chatino Language and culture.
 
 ---
 
@@ -31,23 +31,14 @@ head:
 
 heroBtns:
     -
-        textContent: 'Join our Meetup'
-        link: 'https://github.com/leamsigc/wetzlar-giessen-devs-meetup'
-    -
-        textContent: 'Become Patreon'
-        link: 'https://github.com/leamsigc/wetzlar-giessen-devs-meetup'
-    -
-        textContent: 'Contribute Code'
-        link: 'https://github.com/leamsigc/wetzlar-giessen-devs-meetup'
-    -
-        textContent: 'Join  our Slack'
-        link: 'https://giessendev.slack.com/'
+        textContent: 'Resources'
+        link: '/blogs'
 
 ---
 #title
-Welcome to Giessen-Wetzlar Devs
+Discover the Beauty of Chatino Language:
+#subTitle
+Preserving the Chatino Culture
 #description
-We are a community of software developers in Giessen-Wetzlar, Germany. Whether
-you love writing code or are just getting started, you are welcome
-here!
+Our comprehensive collection of resources includes lessons, audio recordings, and more, all designed to help you learn and appreciate this unique and fascinating language.
 ::

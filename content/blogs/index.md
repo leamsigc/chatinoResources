@@ -1,8 +1,8 @@
 ---
 layout: 'blog'
 navLabel: 'Blogs'
-title: 'Giessen and Wetzlar Developers meetup'
-description: 'We are a community of software developers in Wetzlar | Giessen, Germany. Whether you love writing code or are just getting started, you are welcome here! '
+title: Blog-Discover the Fascinating World of Chatino Language and Culture
+description: Welcome to our blog dedicated to exploring the rich and vibrant world of Chatino language and culture. Join us on a journey of discovery as we explore the history, traditions, and language of this fascinating people.
 draft: true
 navigation: true
 
@@ -13,10 +13,10 @@ publishedAt: '15-06-2022'
 
 
 
-image:  
-    src: '/image.png'  
-    alt: 'Giessen and  Wezlar developer Group '  
-    width: 400  
+image:
+    src: '/image.png'
+    alt:  'Discover the Fascinating World of Chatino Language and Culture'
+    width: 400
     height: 300
 
 head:
@@ -26,13 +26,13 @@ head:
         class: ''
     meta:
         -   name: 'keywords'
-            content: 'Giessen  and Wetzlar developer meetup group'
+            content:  'Chatino language, Chatino culture, Chatino people, language blog, cultural blog'
         -   name: 'robots'
             content: 'index, follow'
-        -   name: 'author' 
-            content: 'Leamsigc'
+        -   name: 'author'
+            content: 'Ismael Garcia Canseco'
         -   name: 'description'
-            content: 'We are a community of software developers in Wetzlar | Giessen, Germany. Whether you love writing code or are just getting started, you are welcome here! '
+            content:  'Welcome to our blog dedicated to exploring the rich and vibrant world of Chatino language and culture. Join us on a journey of discovery as we explore the history, traditions, and language of this fascinating people.'
 
 ---
 ::Hero
@@ -40,47 +40,36 @@ head:
 
 heroBtns:
     -
-        textContent: 'Join our Meetup'
-        link: 'https://github.com/leamsigc/wetzlar-giessen-devs-meetup'
-    -
-        textContent: 'Become Patreon'
-        link: 'https://github.com/leamsigc/wetzlar-giessen-devs-meetup'
-    -
-        textContent: 'Contribute Code'
-        link: 'https://github.com/leamsigc/wetzlar-giessen-devs-meetup'
-    -
-        textContent: 'Join  our Slack'
-        link: 'https://giessendev.slack.com/'
+        textContent: 'Numbers'
+        link: '/numbers'
+
 
 ---
 #title
-Welcome to Wetzlar Devs
-#description
-We are a community of software developers in Wetzlar, Germany. Whether
-you love writing code or are just getting started, you are welcome
-here!
-::
-
-::MeetupsList
-#title
- Next meetups
-::
-
-::Sponsors
-#title
-Our sponsors
-
-#description
-We are a perfect group to sponsor for any company or school that wishes
-to attract more talent or candidates especially for classes, workshops,
-trainings and job offers. Build your list and presence with this group
-for way less than what it costs to advertise on popular Social Media
-Platforms (e.g. Big Tech), and the great thing is you’ll reach real
-people <span>(not robots and fake profiles)!</span>
-
+Discover the Fascinating World of
 #subTitle
-If you want to become a sponsor of our group, simply contact us via our
-email <a href="mailto:info@wetzlar.dev">info@wetzlar.dev</a> .Please ask about 
-Sponsorships in the subject line.
-
+Chatino Language and Culture
+#description
+Our blog covers a wide range of topics related to the Chatino language and culture. From language lessons and grammar tips to cultural events and traditions, we offer a comprehensive and engaging look into the world of the Chatino people.
 ::
+
+
+
+
+
+
+<div class='prose text-center mx-auto'>
+
+
+## Discover the Fascinating World of Chatino Language and Culture
+
+> Welcome to our blog dedicated to exploring the rich and vibrant world of Chatino language and culture. Join us on a journey of discovery as we explore the history, traditions, and language of this fascinating people.
+
+> Our blog covers a wide range of topics related to the Chatino language and culture. From language lessons and grammar tips to cultural events and traditions, we offer a comprehensive and engaging look into the world of the Chatino people.
+
+> Whether you're a language learner, a cultural enthusiast, or simply curious about this unique and fascinating culture, our blog has something for you. Our team of experts is dedicated to providing accurate and engaging content that will help you deepen your knowledge and appreciation of the Chatino language and culture.
+
+So why wait? Join us on a journey of discovery today and explore the rich and vibrant world of Chatino language and culture!
+
+</div>
+

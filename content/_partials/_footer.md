@@ -2,10 +2,8 @@
 
 ::FooterCard{}
 #title
-In Wetzlar and into programing? <br>You need to join our meetup!
+Join us on our journey!!
 
 #content
-Every<strong>3rd Wednesday of the month</strong> you'll find us talking
-about what we're doing and what's happening around us in the world of
-programing.
+Join us on our journey of discovery and help us preserve the Chatino language and culture for generations to come!
 ::

@@ -11,20 +11,20 @@
  * @todo [✔] Update the typescript.
  */
 const { data } = await useAsyncData('about', () =>
-  queryContent('_partials', '_about').findOne(),
+  queryContent('_partials', '_about').findOne()
 )
 
 useHead({
   ...data.value?.head,
-  title: data.value?.title,
+  title: data.value?.title
 })
 definePageMeta({
-  documentDriven: false,
+  documentDriven: false
 })
 </script>
 
 <template>
-  <main>
+  <main v-if="data" class="dark:bg-slate-900">
     <ContentRenderer :value="data">
       <ContentRendererMarkdown :value="data" unwrap="p" />
       <template #empty>

@@ -10,10 +10,10 @@ author: 'WRITTEN BY Ismael Garcia'
 publishedAt: '15-06-2022'
 
 
-image:  
-    src: '/blog/tmuxp.png'  
-    alt: 'Boring of open the same programs every morning or every time that you change projects? Giessen Wetzlar developers'  
-    width: 400  
+image:
+    src: '/blog/tmuxp.png'
+    alt: 'Boring of open the same programs every morning or every time that you change projects? Giessen Wetzlar developers'
+    width: 400
     height: 300
 
 head:
@@ -22,13 +22,13 @@ head:
     bodyAttrs:
         class: ''
     meta:
-        - name: 'description' 
+        - name: 'description'
           content: 'Boring of open the same programs every morning or every time that you change projects? Giessen Wetzlar developers'
-        - name: 'keywords' 
+        - name: 'keywords'
           content: 'Boring of open the same programs every morning or every time that you change projects? Giessen Wetzlar developers'
         - name: 'robots'
-          content: 'index, follow'    
-        - name: 'author'      
+          content: 'index, follow'
+        - name: 'author'
           content: 'Leamsigc'
 
 ---

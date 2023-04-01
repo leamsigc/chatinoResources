@@ -45,14 +45,14 @@ nav.value = [
           <NuxtLink class="block text-teal-600 dark:text-white " to="/">
             <span class="sr-only">Home</span>
             <img
-              src="/logo/DuckLogo.svg"
+              src="/img/logo-sm.png"
               preload
-              alt="Wetzlar developers logo"
-              width="200px"
+              alt="Chatino Podcast logo"
+              width="100px"
               height="100px"
               loading="eager"
               decoding="async"
-              class="w-[150px] h-16 lg:h-12"
+              class=" h-12 w-12 rounded-full"
             >
           </NuxtLink>
         </div>
