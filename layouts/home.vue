@@ -4,7 +4,7 @@
     <section>
       <slot />
     </section>
-    <Footer />
+    <TheFooter />
   </main>
 </template>
 

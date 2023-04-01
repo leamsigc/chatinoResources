@@ -38,11 +38,11 @@ nav.value = [
 </script>
 
 <template>
-  <header aria-label="Site Header" class="bg-white">
+  <header aria-label="Site Header" class="bg-white dark:bg-teal-900">
     <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
       <div class="flex h-16 items-center justify-between">
         <div class="md:flex md:items-center md:gap-12">
-          <NuxtLink class="block text-teal-600" to="/">
+          <NuxtLink class="block text-teal-600 dark:text-white " to="/">
             <span class="sr-only">Home</span>
             <img
               src="/logo/DuckLogo.svg"
@@ -62,7 +62,7 @@ nav.value = [
             <ul class="flex items-center gap-6 text-sm">
               <li v-for="link in nav" :key="link._path">
                 <NuxtLink
-                  lass="text-gray-500 transition hover:text-gray-500/75"
+                  class="text-gray-500 dark:text-white transition hover:text-gray-500/75"
                   :to="`${link._path}`"
                 >
                   {{ link.navLabel }}
@@ -77,7 +77,7 @@ nav.value = [
             <SlackButton class="rounded-md bg-teal-600 px-5 py-2.5 text-sm font-medium text-white shadow" />
 
             <div class="hidden sm:flex">
-              <DarkToggle class="rounded-md bg-gray-100 text-gray-950 px-5 py-2.5 text-sm font-medium " />
+              <DarkToggle class="rounded-md dark:bg-gray-100 text-gray-950 px-5 py-2.5 text-sm font-medium " />
             </div>
           </div>
 

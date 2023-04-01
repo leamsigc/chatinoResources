@@ -8,7 +8,7 @@ const toggleDark = () => {
 </script>
 
 <template>
-  <button aria-label="Theme toggle " class="!outline-none dark:text-white text-teal-950" @click="toggleDark">
-    <i class="dark:i-carbon-moon i-carbon-sun" />
+  <button aria-label="Theme toggle " class="!outline-none " @click="toggleDark">
+    <div class="dark:i-carbon-moon i-carbon-sun" />
   </button>
 </template>

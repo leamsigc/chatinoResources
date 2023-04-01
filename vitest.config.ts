@@ -1,10 +1,13 @@
 import path from 'path'
+import { presetIcons, presetAttributify, presetUno } from 'unocss'
 import { defineConfig } from 'vitest/config'
 import vue from '@vitejs/plugin-vue'
 import svgLoader from 'vite-svg-loader'
 import Components from 'unplugin-vue-components/vite'
 import { NaiveUiResolver } from 'unplugin-vue-components/resolvers'
 import AutoImport from 'unplugin-auto-import/vite'
+import UnoCSS from 'unocss/vite'
+
 const include = [/\.vue$/, /\.vue\?vue/, /\.stories\.ts$/, /\.[tj]s$/]
 
 export default defineConfig({
@@ -27,7 +30,15 @@ export default defineConfig({
       dirs: ['~/composables'],
       vueTemplate: true
     }),
-    svgLoader()
+    svgLoader(),
+    UnoCSS({
+      presets: [
+        presetAttributify({ /* preset options */}),
+        presetIcons({ /* options */ }),
+        presetUno()
+        // ...custom presets
+      ]
+    })
   ],
   test: {
     globalSetup: ['./tests/setupSqliteDbEnv'],

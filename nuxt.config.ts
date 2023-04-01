@@ -9,6 +9,7 @@ export default defineNuxtConfig({
   },
   modules: ['@nuxtjs/tailwindcss', 'nuxt-svgo', '@huntersofbook/naive-ui-nuxt', '@nuxt/content',
     '@vueuse/nuxt',
+    '@unocss/nuxt',
     '@nuxtjs/color-mode',
     '@unlighthouse/nuxt',
     'nuxt-schema-org',
@@ -21,6 +22,11 @@ export default defineNuxtConfig({
   },
   colorMode: {
     classSuffix: ''
+  },
+  unocss: {
+    attributify: true,
+    icons: true,
+    components: false
   },
   content: {
     // documentDriven: {

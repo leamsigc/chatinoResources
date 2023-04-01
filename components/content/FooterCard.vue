@@ -13,7 +13,7 @@
 </script>
 
 <template>
-  <div class="card prose text-center mb-5">
+  <div class="card prose text-center mb-5 dark:text-slate-100">
     <h2 class="subtitle mt-unset">
       <ContentSlot :use="$slots.title" unwrap="p" />
     </h2>

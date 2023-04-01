@@ -23,7 +23,7 @@ export default {
     getStyles (): any {
       const imgUrl = 'Wetzlar.jpg'
       return {
-        background: `linear-gradient(45deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6))
+        background: `linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8))
         ,url('${imgUrl}') no-repeat center bottom / cover`
       }
     }
@@ -32,7 +32,7 @@ export default {
 </script>
 
 <template>
-  <section class="bg-gray-50">
+  <section class="bg-gray-50 dark:bg-teal-950 dark:text-slate-200 text-slate-50" :style="getStyles">
     <div
       class="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center"
     >
