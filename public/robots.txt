@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://giessen.dev
+
+# Sitemaps
+Sitemap: https://giessen.dev/sitemap.xml
