@@ -20,8 +20,8 @@ const { imageUrl, imageAlt } = toRefs(props)
 </script>
 
 <template>
-  <div grid text-center>
-    <h1 class="max-w-lg mx-auto">
+  <div grid text-center class="max-w-5xl mx-auto">
+    <h1 class=" mx-auto text-5xl">
       <ContentSlot :use="$slots.title" unwrap="p" />
     </h1>
     <div class="blog-description-small py-4 max-w-lg mx-auto">
@@ -38,17 +38,16 @@ const { imageUrl, imageAlt } = toRefs(props)
         </div>
       </div>
     </div>
-    <div class="blog-image w-full h-[500px]">
+    <div class="blog-image w-full h-[500px] mb-4">
       <img
-        class="object-cover w-full shadow-sm h-full rounded"
+        class="object-cover w-full shadow-sm h-full rounded-lg"
         :src="imageUrl"
         :alt="imageAlt"
       >
     </div>
-    <div class="blog-description text-left py-4">
+    <div class="blog-description text-justify py-4 text-xl">
       <ContentSlot :use="$slots.description" unwrap="p" />
     </div>
-    <div class="line w-full h-[.5px] bg-gray-500 rounded" />
   </div>
 </template>
 

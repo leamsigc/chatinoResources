@@ -58,7 +58,7 @@ Our blog covers a wide range of topics related to the Chatino language and cultu
 
 
 
-<div class='prose text-center mx-auto'>
+<div class='prose text-center mx-auto dark:text-slate-200'>
 
 
 ## Discover the Fascinating World of Chatino Language and Culture
@@ -73,3 +73,42 @@ So why wait? Join us on a journey of discovery today and explore the rich and vi
 
 </div>
 
+
+---
+::NumberContainer
+---
+
+numbers:
+    -
+        Chatino: 'SkaA'
+        numero: '1'
+        Espanol: 'uno'
+        English: 'Inglés: one'
+        example: 'Ej.: skaA ykaA nkqaG: un árbol verde. a green tree'
+    -
+        Chatino: 'TkwaJ'
+        numero: '2'
+        Espanol: 'dos'
+        English: 'Inglés: two'
+        example: 'Ej.: tkwaJ ykaJ nkqaG: dos árboles verdes. two green trees'
+    -
+        Chatino: 'SnaH'
+        numero: '3'
+        Espanol: 'Tres'
+        English: 'Inglés: Three'
+        example: 'Ej.: snaH ykaJ nkqaG: Tres árboles verdes.'
+    -
+        Chatino: 'JaA kwaA'
+        numero: '4'
+        Espanol: 'cuatro'
+        English: 'Inglés: four'
+        example: 'Ej.: jaA kwaA ykaJ nkqaG: cuatro árboles verdes.'
+    -
+        Chatino: 'QyuJ'
+        numero: '5'
+        Espanol: 'cinco'
+        English: 'Inglés: five'
+        example: 'Ej.: qyuJ ykaJ nkqaG: cinco árboles verdes.'
+---
+
+::

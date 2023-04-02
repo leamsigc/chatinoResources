@@ -3,39 +3,39 @@ import Meetups from './Meetup.vue'
 export default {
   name: 'MeetupList',
   components: {
-    Meetups,
+    Meetups
   },
-  data() {
+  data () {
     return {
       allMeetups: [
         {
           title: 'Vuejs for php devs',
           date: '09/08/2020',
-          imgUrl: '/javascriptImage.png',
+          imgUrl: '/javascriptImage.png'
         },
         {
           title: 'Vuejs vs Reactjs',
           date: '01/08/2020',
-          imgUrl: '/vuejsvsreact.png',
+          imgUrl: '/vuejsvsreact.png'
         },
         {
           title: 'Job search',
           date: '03/08/2020',
-          imgUrl: '/jobSearch.png',
+          imgUrl: '/jobSearch.png'
         },
         {
           title: 'Docker game changer',
           date: '04/08/2020',
-          imgUrl: '/docker.png',
+          imgUrl: '/docker.png'
         },
         {
           title: 'Kubernetes the new way',
           date: '05/08/2020',
-          imgUrl: '/kubernetes.png',
-        },
-      ],
+          imgUrl: '/kubernetes.png'
+        }
+      ]
     }
-  },
+  }
 }
 </script>
 

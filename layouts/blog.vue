@@ -1,7 +1,7 @@
 <template>
-  <main bg-gray-900>
+  <main class="bg-white dark:bg-slate-950 ">
     <TheHeader />
-    <section class="mx-auto py-24 prose text-white px-5 lg:px-unset ">
+    <section class="prose p-24  dark:text-white text-slate-950 max-w-5xl mx-auto">
       <slot />
     </section>
     <TheFooter />

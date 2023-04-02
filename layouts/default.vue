@@ -13,7 +13,7 @@
 </script>
 
 <template>
-  <main text-center>
+  <main text-center class="bg-white dark:bg-slate-950">
     <TheHeader />
     <section>
       <slot />
