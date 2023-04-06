@@ -3,20 +3,29 @@ import { setAbsoluteSqliteDatabaseUrlForPrisma } from './prisma/utils'
 setAbsoluteSqliteDatabaseUrlForPrisma()
 
 export default defineNuxtConfig({
+  extends: ['nuxt-seo-kit', '@sidebase/core'],
   runtimeConfig: {
     version: '0.0.1',
-    public: { siteUrl: process.env.NUXT_PUBLIC_SITE_URL || 'https://giessen.dev' }
+    public: {
+      siteUrl: process.env.NUXT_PUBLIC_SITE_URL || 'https://chatino.leamsigc.com',
+      siteName: 'Chatino resources ',
+      siteDescription: 'Discover the most popular Chatino Language podcasts and immerse yourself in the world of Chatino Language and culture.',
+      language: 'en' // prefer more explicit language codes like `en-AU` over `en`
+    }
   },
-  modules: ['@nuxtjs/tailwindcss', 'nuxt-svgo', '@huntersofbook/naive-ui-nuxt', '@nuxt/content',
+  modules: [
+    '@nuxtjs/tailwindcss',
+    'nuxt-svgo',
+    '@huntersofbook/naive-ui-nuxt',
+    '@nuxt/content',
     '@vueuse/nuxt',
     '@unocss/nuxt',
     '@nuxtjs/color-mode',
-    '@unlighthouse/nuxt',
-    'nuxt-schema-org',
+    // '@unlighthouse/nuxt',
+    // 'nuxt-schema-org',
     '@nuxt/image-edge'
 
   ],
-  extends: ['@sidebase/core'],
   typescript: {
     shim: false
   },
@@ -78,7 +87,7 @@ export default defineNuxtConfig({
   },
   schemaOrg: {
     // set to your production domain
-    host: 'https://giessen.dev',
-    canonicalHost: 'https://giessen.dev'
+    host: 'https://chatino.leamsigc.com',
+    canonicalHost: 'https://chatino.leamsigc.com'
   }
 })

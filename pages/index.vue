@@ -6,7 +6,7 @@
  * @author Reflect-Media <reflect.media GmbH>
  * @version 0.0.1
  *
- * @todo [ ] Test the component
+ * @todo [useSeoMeta ] Test the component
  * @todo [ ] Integration test.
  * @todo [✔] Update the typescript.
  */
@@ -14,15 +14,7 @@ const blogs = await queryContent('blogs').limit(5).find()
 const { data } = await useAsyncData('hero', () =>
   queryContent('_partials', '_hero').findOne()
 )
-
-useHead({
-  ...data.value?.head,
-  title: data.value?.title
-})
-definePageMeta({
-  documentDriven: false,
-  layout: 'home'
-})
+useContentHead(data)
 </script>
 
 <template>
