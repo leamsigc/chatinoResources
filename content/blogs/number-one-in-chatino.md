@@ -24,8 +24,6 @@ head:
     meta:
         -   name: 'keywords'
             content: 'Chatino language, counting system, number one, learn Chatino language'
-        -   name: 'robots'
-            content: 'index, follow'
         -   name: 'author'
             content: 'Ismael Garcia Canseco'
         -   name: 'description'

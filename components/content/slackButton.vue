@@ -13,7 +13,7 @@
 </script>
 
 <template>
-  <a href="https://giessendev.slack.com/" target="_blank" class="rounded-md bg-teal-600 px-5 py-2.5 text-sm font-medium text-white shadow">Join slack</a>
+  <a href="https://giessendev.slack.com/" target="_blank" class="rounded-md bg-teal-700 px-5 py-2.5 text-sm font-medium text-white shadow">Join slack</a>
 </template>
 
 <style scoped>

@@ -42,7 +42,7 @@ nav.value = [
     <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
       <div class="flex h-16 items-center justify-between">
         <div class="md:flex md:items-center md:gap-12">
-          <NuxtLink class="block text-teal-600 dark:text-white " to="/">
+          <NuxtLink class="block text-teal-800 dark:text-white " to="/">
             <span class="sr-only">Home</span>
             <img
               src="/img/logo-sm.png"
@@ -74,7 +74,7 @@ nav.value = [
 
         <div class="flex items-center gap-4">
           <div class="sm:flex sm:gap-4">
-            <SlackButton class="rounded-md bg-teal-600 px-5 py-2.5 text-sm font-medium text-white shadow" />
+            <SlackButton class="rounded-md bg-teal-700 px-5 py-2.5 text-sm font-medium text-white shadow" />
 
             <div class="hidden sm:flex">
               <DarkToggle class="rounded-md dark:bg-gray-100 text-gray-950 px-5 py-2.5 text-sm font-medium " />
@@ -83,6 +83,7 @@ nav.value = [
 
           <div class="block md:hidden">
             <button
+              aria-label="Menu toggle"
               class="rounded bg-gray-100 p-2 text-gray-600 transition hover:text-gray-600/75"
             >
               <svg

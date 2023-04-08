@@ -29,7 +29,7 @@ const { numbers } = toRefs(props)
     <div
       v-for="(item, index) in numbers"
       :key="index"
-      class="h-screen grid place-content-center bg-transparent mt-10"
+      class="h-screen md:grid place-content-center bg-transparent mt-10"
     >
       <div class="mockup-phone">
         <div class="camera" />

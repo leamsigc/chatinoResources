@@ -5,7 +5,7 @@ export default defineEventHandler(async (event) => {
   // Fetch all documents
   const docs = await serverQueryContent(event).where({ _partial: false }).find()
   const sitemap = new SitemapStream({
-    hostname: 'https://chatino.leamsigc.dev'
+    hostname: 'https://chatino.leamsigc.com'
   })
 
   for (const doc of docs) {

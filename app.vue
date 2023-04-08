@@ -4,9 +4,9 @@
   <main>
     <NuxtLayout>
       <SeoKit />
-      <!-- <OgImageScreenshot /> -->
+      <OgImageScreenshot />
       <!-- b. Generate saotir images for every page (uses the default template) -->
-      <!-- <OgImageStatic /> -->
+      <OgImageStatic />
       <NuxtPage />
     </NuxtLayout>
   </main>

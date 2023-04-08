@@ -6,6 +6,7 @@ export default defineNuxtConfig({
   extends: ['nuxt-seo-kit', '@sidebase/core'],
   runtimeConfig: {
     version: '0.0.1',
+    indexable: true,
     public: {
       siteUrl: process.env.NUXT_PUBLIC_SITE_URL || 'https://chatino.leamsigc.com',
       siteName: 'Chatino resources ',
@@ -21,8 +22,8 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     '@unocss/nuxt',
     '@nuxtjs/color-mode',
-    // '@unlighthouse/nuxt',
-    // 'nuxt-schema-org',
+    '@unlighthouse/nuxt',
+    'nuxt-schema-org',
     '@nuxt/image-edge'
 
   ],
@@ -83,7 +84,9 @@ export default defineNuxtConfig({
       // simulate a desktop device
       device: 'mobile'
     }
-
+  },
+  linkChecker: {
+    failOn404: true
   },
   schemaOrg: {
     // set to your production domain

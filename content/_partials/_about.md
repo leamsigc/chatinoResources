@@ -22,8 +22,6 @@ head:
     meta:
         -   name: 'keywords'
             content:  'Chatino language, Chatino culture, language enthusiasts, language preservation, language resources'
-        -   name: 'robots'
-            content: 'index, follow'
         -   name: 'author'
             content: 'Leamsigc'
         -   name: 'description'

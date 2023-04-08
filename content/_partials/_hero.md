@@ -17,7 +17,7 @@ head:
         -   name: 'keywords'
             content: Chatino language podcast
         -   name: 'robots'
-            content: 'index, follow'
+            content: 'all'
         -   name: 'author'
             content: 'Ismael Garcia'
         -   name: 'description'
