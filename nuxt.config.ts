@@ -24,7 +24,9 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     '@unlighthouse/nuxt',
     'nuxt-schema-org',
-    '@nuxt/image-edge'
+    '@nuxt/image-edge',
+    // 'nuxt-security',
+    '@nuxt/devtools'
 
   ],
   typescript: {
