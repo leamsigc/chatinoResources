@@ -3,14 +3,42 @@
 generator client {
   provider = "prisma-client-js"
 }
+
 datasource db {
   // NOTE: You probably want to change this to another database later on
   provider = "sqlite"
   // This value is read from the .env file.
   url      = env("DATABASE_URL")
 }
-model Example {
-  id          String @id @default(uuid())
-  description String
-  details     String
+
+model AuthUser {
+  id           String        @id @unique
+  username     String        @unique
+  auth_session AuthSession[]
+  auth_key     AuthKey[]
+
+  @@map("auth_user")
+}
+
+model AuthSession {
+  id             String   @id @unique
+  user_id        String
+  active_expires BigInt
+  idle_expires   BigInt
+  auth_user      AuthUser @relation(references: [id], fields: [user_id], onDelete: Cascade)
+
+  @@index([user_id])
+  @@map("auth_session")
+}
+
+model AuthKey {
+  id              String   @id @unique
+  hashed_password String?
+  user_id         String
+  primary_key     Boolean
+  expires         BigInt?
+  auth_user       AuthUser @relation(references: [id], fields: [user_id], onDelete: Cascade)
+
+  @@index([user_id])
+  @@map("auth_key")
 }
