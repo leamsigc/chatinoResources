@@ -1,0 +1,1753 @@
+[
+    {
+        "CLAVE MUNICIPIO": "20001",
+        "NOMBRE DEL MUNICIPIO": "Abejones",
+        "FAISMUN 20231": "$4,407,784.00",
+        "FORTAMUN 20232": "$752,663.02"
+    },
+    {
+        "CLAVE MUNICIPIO": "20002",
+        "NOMBRE DEL MUNICIPIO": "Acatlán de Pérez Figueroa",
+        "FAISMUN 20231": "$71,769,806.00",
+        "FORTAMUN 20232": "$40,422,747.22"
+    },
+    {
+        "CLAVE MUNICIPIO": "20003",
+        "NOMBRE DEL MUNICIPIO": "Asunción Cacalotepec",
+        "FAISMUN 20231": "$9,071,731.00",
+        "FORTAMUN 20232": "$2,279,468.13"
+    },
+    {
+        "CLAVE MUNICIPIO": "20004",
+        "NOMBRE DEL MUNICIPIO": "Asunción Cuyotepeji",
+        "FAISMUN 20231": "$2,953,047.00",
+        "FORTAMUN 20232": "$990,722.90"
+    },
+    {
+        "CLAVE MUNICIPIO": "20005",
+        "NOMBRE DEL MUNICIPIO": "Asunción Ixtaltepec",
+        "FAISMUN 20231": "$16,077,987.00",
+        "FORTAMUN 20232": "$13,658,014.60"
+    },
+    {
+        "CLAVE MUNICIPIO": "20006",
+        "NOMBRE DEL MUNICIPIO": "Asunción Nochixtlán",
+        "FAISMUN 20231": "$31,821,901.00",
+        "FORTAMUN 20232": "$18,314,501.72"
+    },
+    {
+        "CLAVE MUNICIPIO": "20007",
+        "NOMBRE DEL MUNICIPIO": "Asunción Ocotlán",
+        "FAISMUN 20231": "$10,666,087.00",
+        "FORTAMUN 20232": "$2,143,433.91"
+    },
+    {
+        "CLAVE MUNICIPIO": "20008",
+        "NOMBRE DEL MUNICIPIO": "Asunción Tlacolulita",
+        "FAISMUN 20231": "$2,729,983.00",
+        "FORTAMUN 20232": "$656,902.08"
+    },
+    {
+        "CLAVE MUNICIPIO": "20009",
+        "NOMBRE DEL MUNICIPIO": "Ayotzintepec",
+        "FAISMUN 20231": "$19,363,856.00",
+        "FORTAMUN 20232": "$6,136,754.22"
+    },
+    {
+        "CLAVE MUNICIPIO": "20010",
+        "NOMBRE DEL MUNICIPIO": "El Barrio de la Soledad",
+        "FAISMUN 20231": "$11,954,461.00",
+        "FORTAMUN 20232": "$12,058,717.56"
+    },
+    {
+        "CLAVE MUNICIPIO": "20011",
+        "NOMBRE DEL MUNICIPIO": "Calihuala",
+        "FAISMUN 20231": "$4,296,692.00",
+        "FORTAMUN 20232": "$1,254,736.68"
+    },
+    {
+        "CLAVE MUNICIPIO": "20012",
+        "NOMBRE DEL MUNICIPIO": "Candelaria Loxicha",
+        "FAISMUN 20231": "$37,801,477.00",
+        "FORTAMUN 20232": "$9,993,145.34"
+    },
+    {
+        "CLAVE MUNICIPIO": "20013",
+        "NOMBRE DEL MUNICIPIO": "Ciénega de Zimatlán",
+        "FAISMUN 20231": "$5,221,378.00",
+        "FORTAMUN 20232": "$2,723,369.27"
+    },
+    {
+        "CLAVE MUNICIPIO": "20014",
+        "NOMBRE DEL MUNICIPIO": "Ciudad Ixtepec",
+        "FAISMUN 20231": "$19,924,168.00",
+        "FORTAMUN 20232": "$25,132,321.99"
+    },
+    {
+        "CLAVE MUNICIPIO": "20015",
+        "NOMBRE DEL MUNICIPIO": "Coatecas Altas ma",
+        "FAISMUN 20231": "$19,464,140.00",
+        "FORTAMUN 20232": "$4,793,416.30"
+    },
+    {
+        "CLAVE MUNICIPIO": "20016",
+        "NOMBRE DEL MUNICIPIO": "Colcoyán de las Flores",
+        "FAISMUN 20231": "$49,419,680.00",
+        "FORTAMUN 20232": "$8,558,521.30"
+    },
+    {
+        "CLAVE MUNICIPIO": "20017",
+        "NOMBRE DEL MUNICIPIO": "La Compañia",
+        "FAISMUN 20231": "$10,808,299.00",
+        "FORTAMUN 20232": "$3,228,127.82"
+    },
+    {
+        "CLAVE MUNICIPIO": "20018",
+        "NOMBRE DEL MUNICIPIO": "Concepción Buenavista",
+        "FAISMUN 20231": "$3,228,364.00",
+        "FORTAMUN 20232": "$673,011.40"
+    },
+    {
+        "CLAVE MUNICIPIO": "20019",
+        "NOMBRE DEL MUNICIPIO": "Concepción Pápalo",
+        "FAISMUN 20231": "$8,144,315.00",
+        "FORTAMUN 20232": "$2,464,725.26"
+    },
+    {
+        "CLAVE MUNICIPIO": "20020",
+        "NOMBRE DEL MUNICIPIO": "Constancia del Rosario",
+        "FAISMUN 20231": "$15,051,439.00",
+        "FORTAMUN 20232": "$4,337,880.66"
+    },
+    {
+        "CLAVE MUNICIPIO": "20021",
+        "NOMBRE DEL MUNICIPIO": "Cosolapa",
+        "FAISMUN 20231": "$22,471,193.00",
+        "FORTAMUN 20232": "$12,966,209.00"
+    },
+    {
+        "CLAVE MUNICIPIO": "20022",
+        "NOMBRE DEL MUNICIPIO": "Cosoltepec",
+        "FAISMUN 20231": "$3,246,193.00",
+        "FORTAMUN 20232": "$718,654.46"
+    },
+    {
+        "CLAVE MUNICIPIO": "20023",
+        "NOMBRE DEL MUNICIPIO": "Cuilápam de Guerrero",
+        "FAISMUN 20231": "$44,623,994.00",
+        "FORTAMUN 20232": "$24,058,367.63"
+    },
+    {
+        "CLAVE MUNICIPIO": "20024",
+        "NOMBRE DEL MUNICIPIO": "Cuyamecalco Villa de Zaragoza",
+        "FAISMUN 20231": "$14,269,258.00",
+        "FORTAMUN 20232": "$3,261,241.41"
+    },
+    {
+        "CLAVE MUNICIPIO": "20025",
+        "NOMBRE DEL MUNICIPIO": "Chahultes",
+        "FAISMUN 20231": "$18,295,374.00",
+        "FORTAMUN 20232": "$10,163,188.11"
+    },
+    {
+        "CLAVE MUNICIPIO": "20026",
+        "NOMBRE DEL MUNICIPIO": "Chalcatongo de Hidalgo",
+        "FAISMUN 20231": "$20,203,434.00",
+        "FORTAMUN 20232": "SB ,085,981.38"
+    },
+    {
+        "CLAVE MUNICIPIO": "20027",
+        "NOMBRE DEL MUNICIPIO": "Chiquihuitlán de Benito Juárez",
+        "FAISMUN 20231": "$8,670,897.00",
+        "FORTAMUN 20232": "$1,950,122.13"
+    },
+    {
+        "CLAVE MUNICIPIO": "20028",
+        "NOMBRE DEL MUNICIPIO": "Heroica Ciudad de Ejutla de Crespo",
+        "FAISMUN 20231": "$34,562,676.00",
+        "FORTAMUN 20232": "$20,716,579.64"
+    },
+    {
+        "CLAVE MUNICIPIO": "20029",
+        "NOMBRE DEL MUNICIPIO": "Eloxochitlán de Flores Magón",
+        "FAISMUN 20231": "$21,082,256.00",
+        "FORTAMUN 20232": "$3,772,264.70"
+    },
+    {
+        "CLAVE MUNICIPIO": "20030",
+        "NOMBRE DEL MUNICIPIO": "El Espinal",
+        "FAISMUN 20231": "$6,874,549.00",
+        "FORTAMUN 20232": "$7,813,017.98"
+    },
+    {
+        "CLAVE MUNICIPIO": "20031",
+        "NOMBRE DEL MUNICIPIO": "Tamazulápam del Espíritu Santo",
+        "FAISMUN 20231": "$22,491,471.00",
+        "FORTAMUN 20232": "$6,430,301.74"
+    },
+    {
+        "CLAVE MUNICIPIO": "20032",
+        "NOMBRE DEL MUNICIPIO": "Fresnillo de Trujano",
+        "FAISMUN 20231": "$3,699,689.00",
+        "FORTAMUN 20232": "$963,874.04"
+    },
+    {
+        "CLAVE MUNICIPIO": "20033",
+        "NOMBRE DEL MUNICIPIO": "Guadalupe Etla",
+        "FAISMUN 20231": "$3,409,355.00",
+        "FORTAMUN 20232": "$2,621,343,60"
+    },
+    {
+        "CLAVE MUNICIPIO": "20034",
+        "NOMBRE DEL MUNICIPIO": "Guadalupe de Ramirez",
+        "FAISMUN 20231": "$3,204,998.00",
+        "FORTAMUN 20232": "$1,152,711.02"
+    },
+    {
+        "CLAVE MUNICIPIO": "20035",
+        "NOMBRE DEL MUNICIPIO": "Guelatao de Juárez",
+        "FAISMUN 20231": "$6,892,466.00",
+        "FORTAMUN 20232": "$587,990.01"
+    },
+    {
+        "CLAVE MUNICIPIO": "20036",
+        "NOMBRE DEL MUNICIPIO": "Guevea de Humboldt",
+        "FAISMUN 20231": "$13,034,965,00",
+        "FORTAMUN 20232": "$4,703,920.10"
+    },
+    {
+        "CLAVE MUNICIPIO": "20037",
+        "NOMBRE DEL MUNICIPIO": "Mesones Hidalgo",
+        "FAISMUN 20231": "$16,079,362.00",
+        "FORTAMUN 20232": "$3,959,311.75"
+    },
+    {
+        "CLAVE MUNICIPIO": "20038",
+        "NOMBRE DEL MUNICIPIO": "Villa Hidalgo",
+        "FAISMUN 20231": "$7,112,616.00",
+        "FORTAMUN 20232": "$1,687,003.31"
+    },
+    {
+        "CLAVE MUNICIPIO": "20039",
+        "NOMBRE DEL MUNICIPIO": "Heroica Ciudad de Huajuapan de Loón",
+        "FAISMUN 20231": "$66,861,022.00",
+        "FORTAMUN 20232": "$70,087,158.62"
+    },
+    {
+        "CLAVE MUNICIPIO": "20040",
+        "NOMBRE DEL MUNICIPIO": "Huautepec",
+        "FAISMUN 20231": "$32,155,177,00",
+        "FORTAMUN 20232": "$5,714,332.17"
+    },
+    {
+        "CLAVE MUNICIPIO": "20041",
+        "NOMBRE DEL MUNICIPIO": "Huautla de Jiménez",
+        "FAISMUN 20231": "$98,514,892.00",
+        "FORTAMUN 20232": "$28,379,244.01"
+    },
+    {
+        "CLAVE MUNICIPIO": "20042",
+        "NOMBRE DEL MUNICIPIO": "Ixtlán de Juárez",
+        "FAISMUN 20231": "$13,940,436.00",
+        "FORTAMUN 20232": "$7,504,256.10"
+    },
+    {
+        "CLAVE MUNICIPIO": "20043",
+        "NOMBRE DEL MUNICIPIO": "Juchitán de Zaragoza",
+        "FAISMUN 20231": "$119,105,354.00",
+        "FORTAMUN 20232": "$101,640,830.73"
+    },
+    {
+        "CLAVE MUNICIPIO": "20044",
+        "NOMBRE DEL MUNICIPIO": "Loma Bonita",
+        "FAISMUN 20231": "$55,425,457:00",
+        "FORTAMUN 20232": "$36,634,373.21"
+    },
+    {
+        "CLAVE MUNICIPIO": "20045",
+        "NOMBRE DEL MUNICIPIO": "Magdalena Apasco",
+        "FAISMUN 20231": "$7,480,930.00",
+        "FORTAMUN 20232": "$7,059,460.01"
+    },
+    {
+        "CLAVE MUNICIPIO": "20046",
+        "NOMBRE DEL MUNICIPIO": "Magdalena Jaltepec",
+        "FAISMUN 20231": "$8,972,128.00",
+        "FORTAMUN 20232": "$2,633,873.07"
+    },
+    {
+        "CLAVE MUNICIPIO": "20047",
+        "NOMBRE DEL MUNICIPIO": "Santa Magdalena Jicotlán",
+        "FAISMUN 20231": "$1,883,559.00",
+        "FORTAMUN 20232": "$72,491.97"
+    },
+    {
+        "CLAVE MUNICIPIO": "20048",
+        "NOMBRE DEL MUNICIPIO": "Magdalena Mixtepec",
+        "FAISMUN 20231": "$5,947,533.00",
+        "FORTAMUN 20232": "$1,282,480.50"
+    },
+    {
+        "CLAVE MUNICIPIO": "20049",
+        "NOMBRE DEL MUNICIPIO": "Magdalena Ocotlán",
+        "FAISMUN 20231": "$3,402,196.00",
+        "FORTAMUN 20232": "$1,059,634.97"
+    },
+    {
+        "CLAVE MUNICIPIO": "20050",
+        "NOMBRE DEL MUNICIPIO": "Magdalena Peñasco",
+        "FAISMUN 20231": "$13,256,176.00",
+        "FORTAMUN 20232": "$3,356,107.38"
+    },
+    {
+        "CLAVE MUNICIPIO": "20051",
+        "NOMBRE DEL MUNICIPIO": "Magdalena Teitipac",
+        "FAISMUN 20231": "$18,483,847.00",
+        "FORTAMUN 20232": "$4,263,598.82"
+    },
+    {
+        "CLAVE MUNICIPIO": "20052",
+        "NOMBRE DEL MUNICIPIO": "Magdalena Tequisistlán",
+        "FAISMUN 20231": "$11,692,606.00",
+        "FORTAMUN 20232": "$5,366,191.96"
+    },
+    {
+        "CLAVE MUNICIPIO": "20053",
+        "NOMBRE DEL MUNICIPIO": "Magdalena Tlacotepec",
+        "FAISMUN 20231": "$3,324,451.00",
+        "FORTAMUN 20232": "$1,160,765.67"
+    },
+    {
+        "CLAVE MUNICIPIO": "20054",
+        "NOMBRE DEL MUNICIPIO": "Magdalena Zahuatlån",
+        "FAISMUN 20231": "$1,888,674.00",
+        "FORTAMUN 20232": "$361,564.64"
+    },
+    {
+        "CLAVE MUNICIPIO": "20055",
+        "NOMBRE DEL MUNICIPIO": "Mariscala de Juárez",
+        "FAISMUN 20231": "$5,785,984.00",
+        "FORTAMUN 20232": "$3,346,262.80"
+    },
+    {
+        "CLAVE MUNICIPIO": "20056",
+        "NOMBRE DEL MUNICIPIO": "Mártires de Tacubaya",
+        "FAISMUN 20231": "$3,059,213.00",
+        "FORTAMUN 20232": "$1,294,115.01"
+    },
+    {
+        "CLAVE MUNICIPIO": "20057",
+        "NOMBRE DEL MUNICIPIO": "Matías Romero Avendaño",
+        "FAISMUN 20231": "$55,271,501.00",
+        "FORTAMUN 20232": "$34,172,332.83"
+    },
+    {
+        "CLAVE MUNICIPIO": "20058",
+        "NOMBRE DEL MUNICIPIO": "Mazatlán Villa de Flores",
+        "FAISMUN 20231": "$46,505,956.00",
+        "FORTAMUN 20232": "$11,385,706.16"
+    },
+    {
+        "CLAVE MUNICIPIO": "20059",
+        "NOMBRE DEL MUNICIPIO": "Miahuatlán de Porfirio Diaz",
+        "FAISMUN 20231": "$86,716,145.00",
+        "FORTAMUN 20232": "$45,083,709.15"
+    },
+    {
+        "CLAVE MUNICIPIO": "20060",
+        "NOMBRE DEL MUNICIPIO": "Mixistlán de la Reforma",
+        "FAISMUN 20231": "$9,275,651.00",
+        "FORTAMUN 20232": "$2,225,770.41"
+    },
+    {
+        "CLAVE MUNICIPIO": "20061",
+        "NOMBRE DEL MUNICIPIO": "Monjas",
+        "FAISMUN 20231": "$8,460,691.00",
+        "FORTAMUN 20232": "$2,589,124.97"
+    },
+    {
+        "CLAVE MUNICIPIO": "20062",
+        "NOMBRE DEL MUNICIPIO": "Natividad",
+        "FAISMUN 20231": "$1,809,517.00",
+        "FORTAMUN 20232": "$445,691.06"
+    },
+    {
+        "CLAVE MUNICIPIO": "20063",
+        "NOMBRE DEL MUNICIPIO": "Nazareno Etla",
+        "FAISMUN 20231": "$3,774,539.00",
+        "FORTAMUN 20232": "$3,842,071.73"
+    },
+    {
+        "CLAVE MUNICIPIO": "20064",
+        "NOMBRE DEL MUNICIPIO": "Nejapa de Madera",
+        "FAISMUN 20231": "$17,598,857.00",
+        "FORTAMUN 20232": "$7,601,806.96"
+    },
+    {
+        "CLAVE MUNICIPIO": "20065",
+        "NOMBRE DEL MUNICIPIO": "Ixpantepec Nieves",
+        "FAISMUN 20231": "$4,517,751.00",
+        "FORTAMUN 20232": "$965,663.96"
+    },
+    {
+        "CLAVE MUNICIPIO": "20066",
+        "NOMBRE DEL MUNICIPIO": "Santiago Niltepec",
+        "FAISMUN 20231": "$10,422,725.00",
+        "FORTAMUN 20232": "$4,780,886.83"
+    },
+    {
+        "CLAVE MUNICIPIO": "20067",
+        "NOMBRE DEL MUNICIPIO": "Oaxaca de Juárez",
+        "FAISMUN 20231": "$175,910,007.00",
+        "FORTAMUN 20232": "$242,494,420.10"
+    },
+    {
+        "CLAVE MUNICIPIO": "20068",
+        "NOMBRE DEL MUNICIPIO": "Ocotlán de Morelos",
+        "FAISMUN 20231": "$33,543,749.00",
+        "FORTAMUN 20232": "$21,256,241.71"
+    },
+    {
+        "CLAVE MUNICIPIO": "20069",
+        "NOMBRE DEL MUNICIPIO": "La Pe",
+        "FAISMUN 20231": "$7,439,587.00",
+        "FORTAMUN 20232": "$2,731,423.93"
+    },
+    {
+        "CLAVE MUNICIPIO": "20070",
+        "NOMBRE DEL MUNICIPIO": "Pinotepa de Don Luis",
+        "FAISMUN 20231": "$20,538,700,00",
+        "FORTAMUN 20232": "$5,742,075.99"
+    },
+    {
+        "CLAVE MUNICIPIO": "20071",
+        "NOMBRE DEL MUNICIPIO": "Pluma Hidalgo",
+        "FAISMUN 20231": "$10,911,234.00",
+        "FORTAMUN 20232": "$2,913,101.21"
+    },
+    {
+        "CLAVE MUNICIPIO": "20072",
+        "NOMBRE DEL MUNICIPIO": "San José del Progreso",
+        "FAISMUN 20231": "$17,426,652.00",
+        "FORTAMUN 20232": "$7,212,498.50"
+    },
+    {
+        "CLAVE MUNICIPIO": "2007302",
+        "NOMBRE DEL MUNICIPIO": "Putla Villa de Guerrero",
+        "FAISMUN 20231": "$71,055,306.00",
+        "FORTAMUN 20232": "$31,012,222.12"
+    },
+    {
+        "CLAVE MUNICIPIO": "20074",
+        "NOMBRE DEL MUNICIPIO": "Santa Catarina Quioquitani",
+        "FAISMUN 20231": "$2,902,471.00",
+        "FORTAMUN 20232": "$408,102.66"
+    },
+    {
+        "CLAVE MUNICIPIO": "20075",
+        "NOMBRE DEL MUNICIPIO": "Reforma de Pineda",
+        "FAISMUN 20231": "$4,950,698.00",
+        "FORTAMUN 20232": "$2,380,598.84"
+    },
+    {
+        "CLAVE MUNICIPIO": "20076",
+        "NOMBRE DEL MUNICIPIO": "La Reforma",
+        "FAISMUN 20231": "$6,846,788.00",
+        "FORTAMUN 20232": "$3,052,715.27"
+    },
+    {
+        "CLAVE MUNICIPIO": "20077",
+        "NOMBRE DEL MUNICIPIO": "Reyes Etla",
+        "FAISMUN 20231": "$4,581,699.00",
+        "FORTAMUN 20232": "$3,910,983.80"
+    },
+    {
+        "CLAVE MUNICIPIO": "20078",
+        "NOMBRE DEL MUNICIPIO": "Rojas de Cuauhtémoc",
+        "FAISMUN 20231": "$2,429,323.00",
+        "FORTAMUN 20232": "$1,164,345.52"
+    },
+    {
+        "CLAVE MUNICIPIO": "20079",
+        "NOMBRE DEL MUNICIPIO": "Salina Cruz",
+        "FAISMUN 20231": "$47,058,492.00",
+        "FORTAMUN 20232": "$75,568,798.67"
+    },
+    {
+        "CLAVE MUNICIPIO": "20080",
+        "NOMBRE DEL MUNICIPIO": "San Agustin Amatengo",
+        "FAISMUN 20231": "$4,430,523:00",
+        "FORTAMUN 20232": "$1,425,674.42"
+    },
+    {
+        "CLAVE MUNICIPIO": "20081",
+        "NOMBRE DEL MUNICIPIO": "San Agustin Atenango",
+        "FAISMUN 20231": "$5,900,862.00",
+        "FORTAMUN 20232": "$1,674,473.84"
+    },
+    {
+        "CLAVE MUNICIPIO": "20082",
+        "NOMBRE DEL MUNICIPIO": "San Agustin Chayuco .",
+        "FAISMUN 20231": "$9,774,621.00",
+        "FORTAMUN 20232": "$3,725,726.67"
+    },
+    {
+        "CLAVE MUNICIPIO": "20083",
+        "NOMBRE DEL MUNICIPIO": "San Agustin de las Juntas",
+        "FAISMUN 20231": "$9,690,135.00",
+        "FORTAMUN 20232": "$10,194,511.78"
+    },
+    {
+        "CLAVE MUNICIPIO": "20084",
+        "NOMBRE DEL MUNICIPIO": "San Agustin Etla",
+        "FAISMUN 20231": "$4,324,526.00",
+        "FORTAMUN 20232": "$3,730,201.48"
+    },
+    {
+        "CLAVE MUNICIPIO": "20085",
+        "NOMBRE DEL MUNICIPIO": "San Agustin Loxicha",
+        "FAISMUN 20231": "$118,807,975.00",
+        "FORTAMUN 20232": "$23,442,633.80"
+    },
+    {
+        "CLAVE MUNICIPIO": "20086",
+        "NOMBRE DEL MUNICIPIO": "San Agustin Tlacotepec",
+        "FAISMUN 20231": "$4,189,542.00",
+        "FORTAMUN 20232": "$923,600.75"
+    },
+    {
+        "CLAVE MUNICIPIO": "20087",
+        "NOMBRE DEL MUNICIPIO": "San Agustin Yatareni",
+        "FAISMUN 20231": "$8,579,926.00",
+        "FORTAMUN 20232": "$4,941,085.03"
+    },
+    {
+        "CLAVE MUNICIPIO": "20088",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Cabecera Nueva",
+        "FAISMUN 20231": "$10,819,092.00",
+        "FORTAMUN 20232": "$2,578,385.43"
+    },
+    {
+        "CLAVE MUNICIPIO": "20089",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Dinicuiti",
+        "FAISMUN 20231": "$4,630,915.00",
+        "FORTAMUN 20232": "$2,065,572.22"
+    },
+    {
+        "CLAVE MUNICIPIO": "20090",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Huaxpaltepec",
+        "FAISMUN 20231": "$12,411,150.00",
+        "FORTAMUN 20232": "$5,579,192.91"
+    },
+    {
+        "CLAVE MUNICIPIO": "20091",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Huayápam",
+        "FAISMUN 20231": "$4,850,447.00",
+        "FORTAMUN 20232": "$5,619,466.20"
+    },
+    {
+        "CLAVE MUNICIPIO": "20092",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Ixtlahuaca",
+        "FAISMUN 20231": "$4,088,736.00",
+        "FORTAMUN 20232": "$1,589,452.46"
+    },
+    {
+        "CLAVE MUNICIPIO": "20093",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Lagunas",
+        "FAISMUN 20231": "$2,292,645.00",
+        "FORTAMUN 20232": "$463,590.30"
+    },
+    {
+        "CLAVE MUNICIPIO": "20094",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Nuxiño",
+        "FAISMUN 20231": "$5,382,293.00",
+        "FORTAMUN 20232": "$1,655,679.64"
+    },
+    {
+        "CLAVE MUNICIPIO": "20095",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Paxtlán",
+        "FAISMUN 20231": "$17,012,933.00",
+        "FORTAMUN 20232": "$4,082,816.50"
+    },
+    {
+        "CLAVE MUNICIPIO": "20096",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Sinaxtla",
+        "FAISMUN 20231": "$1,790,284.00",
+        "FORTAMUN 20232": "$676,591.25"
+    },
+    {
+        "CLAVE MUNICIPIO": "20097",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Solaga",
+        "FAISMUN 20231": "$4,159,552.00",
+        "FORTAMUN 20232": "$1,584,977.65"
+    },
+    {
+        "CLAVE MUNICIPIO": "20098",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Teotilálpam",
+        "FAISMUN 20231": "$17,013,504.00",
+        "FORTAMUN 20232": "$3,788,374.01"
+    },
+    {
+        "CLAVE MUNICIPIO": "20099",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Tepetlapa",
+        "FAISMUN 20231": "$2,712,127.00",
+        "FORTAMUN 20232": "$340,980,51"
+    },
+    {
+        "CLAVE MUNICIPIO": "20100",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Yaá",
+        "FAISMUN 20231": "$2,464,594.00",
+        "FORTAMUN 20232": "$351,720.05"
+    },
+    {
+        "CLAVE MUNICIPIO": "20101",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Zabache",
+        "FAISMUN 20231": "$3,376,026.00",
+        "FORTAMUN 20232": "$669,431.55"
+    },
+    {
+        "CLAVE MUNICIPIO": "20102",
+        "NOMBRE DEL MUNICIPIO": "San Andrés Zautla",
+        "FAISMUN 20231": "$8,554,879.00",
+        "FORTAMUN 20232": "$4,766,567.44"
+    },
+    {
+        "CLAVE MUNICIPIO": "20103",
+        "NOMBRE DEL MUNICIPIO": "San Antonino Castillo Velasco",
+        "FAISMUN 20231": "$12,255,059.00",
+        "FORTAMUN 20232": "$5,427,049.38"
+    },
+    {
+        "CLAVE MUNICIPIO": "20104",
+        "NOMBRE DEL MUNICIPIO": "San Antonino el Alto",
+        "FAISMUN 20231": "$8,831,108.00",
+        "FORTAMUN 20232": "$2,420,872.12"
+    },
+    {
+        "CLAVE MUNICIPIO": "20105",
+        "NOMBRE DEL MUNICIPIO": "San Antonino Monte Verde",
+        "FAISMUN 20231": "$18,753,790.00",
+        "FORTAMUN 20232": "$6,871,517.99"
+    },
+    {
+        "CLAVE MUNICIPIO": "20106",
+        "NOMBRE DEL MUNICIPIO": "San Antonio Aculla",
+        "FAISMUN 20231": "$4,415,493.00",
+        "FORTAMUN 20232": "$222,845.53"
+    },
+    {
+        "CLAVE MUNICIPIO": "20107",
+        "NOMBRE DEL MUNICIPIO": "San Antonio de la Cal",
+        "FAISMUN 20231": "$23,172,112.00",
+        "FORTAMUN 20232": "$23,521,390.45"
+    },
+    {
+        "CLAVE MUNICIPIO": "20108",
+        "NOMBRE DEL MUNICIPIO": "San Antonio Huitepec",
+        "FAISMUN 20231": "$13,475,003.00",
+        "FORTAMUN 20232": "$2,627,608.34"
+    },
+    {
+        "CLAVE MUNICIPIO": "20109",
+        "NOMBRE DEL MUNICIPIO": "San Antonio Nanahuatipam",
+        "FAISMUN 20231": "$2,613,135.00",
+        "FORTAMUN 20232": "$1,102,593.14"
+    },
+    {
+        "CLAVE MUNICIPIO": "20110",
+        "NOMBRE DEL MUNICIPIO": "San Antonio Sinicahua",
+        "FAISMUN 20231": "$8,626,927.00",
+        "FORTAMUN 20232": "$1,492,796.56"
+    },
+    {
+        "CLAVE MUNICIPIO": "20111",
+        "NOMBRE DEL MUNICIPIO": "San Antonio Tepetlapa",
+        "FAISMUN 20231": "$14,946,615.00",
+        "FORTAMUN 20232": "$4,361,149.67"
+    },
+    {
+        "CLAVE MUNICIPIO": "20112",
+        "NOMBRE DEL MUNICIPIO": "San Baltazar Chichicápam",
+        "FAISMUN 20231": "$6,873,133.00",
+        "FORTAMUN 20232": "$2,305,422.03"
+    },
+    {
+        "CLAVE MUNICIPIO": "20113",
+        "NOMBRE DEL MUNICIPIO": "San Baltazar Loxicha",
+        "FAISMUN 20231": "$7,331,654.00",
+        "FORTAMUN 20232": "$2,836,134.48"
+    },
+    {
+        "CLAVE MUNICIPIO": "20114",
+        "NOMBRE DEL MUNICIPIO": "San Baltazar Yatzachi el Bajo",
+        "FAISMUN 20231": "$3,651,126.00",
+        "FORTAMUN 20232": "$603,204.37"
+    },
+    {
+        "CLAVE MUNICIPIO": "20115",
+        "NOMBRE DEL MUNICIPIO": "San Bartolo Coyotepec",
+        "FAISMUN 20231": "$7,141,092.00",
+        "FORTAMUN 20232": "$9,299,549.81"
+    },
+    {
+        "CLAVE MUNICIPIO": "20116",
+        "NOMBRE DEL MUNICIPIO": "San Bartolomé Ayautla",
+        "FAISMUN 20231": "$19,021,216.00",
+        "FORTAMUN 20232": "$3,697,087.89"
+    },
+    {
+        "CLAVE MUNICIPIO": "20117",
+        "NOMBRE DEL MUNICIPIO": "San Bartolomé Loxicha",
+        "FAISMUN 20231": "$9,091,109.00",
+        "FORTAMUN 20232": "$1,980,550.84"
+    },
+    {
+        "CLAVE MUNICIPIO": "20118",
+        "NOMBRE DEL MUNICIPIO": "San Bartolomé Quialana",
+        "FAISMUN 20231": "$7,206,130.00",
+        "FORTAMUN 20232": "$2,138,064.14"
+    },
+    {
+        "CLAVE MUNICIPIO": "20119",
+        "NOMBRE DEL MUNICIPIO": "San Bartolomé Yucuañe",
+        "FAISMUN 20231": "$2,476,534.00",
+        "FORTAMUN 20232": "$657,797.05"
+    },
+    {
+        "CLAVE MUNICIPIO": "20120",
+        "NOMBRE DEL MUNICIPIO": "San Bartolomé Zoogocho",
+        "FAISMUN 20231": "$1,300,604.00",
+        "FORTAMUN 20232": "$401,837.92"
+    },
+    {
+        "CLAVE MUNICIPIO": "20121",
+        "NOMBRE DEL MUNICIPIO": "San Bartolo Soyaltepec",
+        "FAISMUN 20231": "$5,205,757.00",
+        "FORTAMUN 20232": "$533,397.33"
+    },
+    {
+        "CLAVE MUNICIPIO": "20122",
+        "NOMBRE DEL MUNICIPIO": "San Bartolo Yautepec",
+        "FAISMUN 20231": "$3,110,909.00",
+        "FORTAMUN 20232": "$584,410.17"
+    },
+    {
+        "CLAVE MUNICIPIO": "20123",
+        "NOMBRE DEL MUNICIPIO": "San Bernardo Mixtepec",
+        "FAISMUN 20231": "$7,679,363.00",
+        "FORTAMUN 20232": "$2,531,847.41"
+    },
+    {
+        "CLAVE MUNICIPIO": "20124",
+        "NOMBRE DEL MUNICIPIO": "San Blas Atempa",
+        "FAISMUN 20231": "$42,384,286.0024",
+        "FORTAMUN 20232": "$17,627,170.93"
+    },
+    {
+        "CLAVE MUNICIPIO": "20125",
+        "NOMBRE DEL MUNICIPIO": "San Carlos Yautepec",
+        "FAISMUN 20231": "$33,402,847.00",
+        "FORTAMUN 20232": "$10,437,046.47"
+    },
+    {
+        "CLAVE MUNICIPIO": "20126",
+        "NOMBRE DEL MUNICIPIO": "San Cristóbal Amatlán",
+        "FAISMUN 20231": "$18,861,524.00",
+        "FORTAMUN 20232": "$4,829,214.78"
+    },
+    {
+        "CLAVE MUNICIPIO": "20127",
+        "NOMBRE DEL MUNICIPIO": "San Cristóbal Amoltepec",
+        "FAISMUN 20231": "$6,227,373.00AST",
+        "FORTAMUN 20232": "$1,120,492.38"
+    },
+    {
+        "CLAVE MUNICIPIO": "20128",
+        "NOMBRE DEL MUNICIPIO": "San Cristóbal Lachirioag",
+        "FAISMUN 20231": "$3,383,217.00",
+        "FORTAMUN 20232": "$1,201,038.96"
+    },
+    {
+        "CLAVE MUNICIPIO": "20129",
+        "NOMBRE DEL MUNICIPIO": "San Cristóbal Suchixtlahuaca",
+        "FAISMUN 20231": "$1,586,399.00",
+        "FORTAMUN 20232": "$318,606.46"
+    },
+    {
+        "CLAVE MUNICIPIO": "20130",
+        "NOMBRE DEL MUNICIPIO": "San Dionisio del Mar",
+        "FAISMUN 20231": "$15,209,165.00",
+        "FORTAMUN 20232": "$4,635,903.00"
+    },
+    {
+        "CLAVE MUNICIPIO": "20131",
+        "NOMBRE DEL MUNICIPIO": "San Dionisio Ocotepec",
+        "FAISMUN 20231": "$34,535,857.00",
+        "FORTAMUN 20232": "$10,212,411.02"
+    },
+    {
+        "CLAVE MUNICIPIO": "20132",
+        "NOMBRE DEL MUNICIPIO": "San Dionisio Ocotlán",
+        "FAISMUN 20231": "$2,834,339.00",
+        "FORTAMUN 20232": "$1,235,047.52"
+    },
+    {
+        "CLAVE MUNICIPIO": "20133",
+        "NOMBRE DEL MUNICIPIO": "San Esteban Atatlahuca",
+        "FAISMUN 20231": "$20,249,335.00",
+        "FORTAMUN 20232": "$3,520,780.38"
+    },
+    {
+        "CLAVE MUNICIPIO": "20134",
+        "NOMBRE DEL MUNICIPIO": "San Felipe Jalapa de Díaz",
+        "FAISMUN 20231": "$124,927,067.00",
+        "FORTAMUN 20232": "$25,506,416.09"
+    },
+    {
+        "CLAVE MUNICIPIO": "20135",
+        "NOMBRE DEL MUNICIPIO": "San Felipe Tejalápam",
+        "FAISMUN 20231": "$19,077,735.00",
+        "FORTAMUN 20232": "$7,366,431.96"
+    },
+    {
+        "CLAVE MUNICIPIO": "20136",
+        "NOMBRE DEL MUNICIPIO": "San Felipe Usila",
+        "FAISMUN 20231": "$44,035,029.00",
+        "FORTAMUN 20232": "$10,910,481.35"
+    },
+    {
+        "CLAVE MUNICIPIO": "20137",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Cahuacuá",
+        "FAISMUN 20231": "$15,630,433.00",
+        "FORTAMUN 20232": "$3,087,618.79"
+    },
+    {
+        "CLAVE MUNICIPIO": "20138",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Cajonos",
+        "FAISMUN 20231": "$1,722,676.00",
+        "FORTAMUN 20232": "$403,627.85"
+    },
+    {
+        "CLAVE MUNICIPIO": "20139",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Chapulapa",
+        "FAISMUN 20231": "$9,147,780.00",
+        "FORTAMUN 20232": "$1,964,441.52"
+    },
+    {
+        "CLAVE MUNICIPIO": "20140",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Chindúa",
+        "FAISMUN 20231": "$1,774,966.00",
+        "FORTAMUN 20232": "$726,709.12"
+    },
+    {
+        "CLAVE MUNICIPIO": "20141",
+        "NOMBRE DEL MUNICIPIO": "San Francisco del Mar",
+        "FAISMUN 20231": "$16,683,788.00",
+        "FORTAMUN 20232": "$7,795,113.74"
+    },
+    {
+        "CLAVE MUNICIPIO": "20142",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Huehuetlán",
+        "FAISMUN 20231": "$4,520,347.00",
+        "FORTAMUN 20232": "$753,557.98"
+    },
+    {
+        "CLAVE MUNICIPIO": "20143",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Ixhuatán",
+        "FAISMUN 20231": "$15,434,165.00",
+        "FORTAMUN 20232": "$8,467,235.18"
+    },
+    {
+        "CLAVE MUNICIPIO": "20144",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Jaltepetongo",
+        "FAISMUN 20231": "$3,631,463.00",
+        "FORTAMUN 20232": "$962,084.12"
+    },
+    {
+        "CLAVE MUNICIPIO": "20145",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Lachigoló",
+        "FAISMUN 20231": "$5,885,442.00",
+        "FORTAMUN 20232": "$4,667,225.66"
+    },
+    {
+        "CLAVE MUNICIPIO": "20146",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Logueche",
+        "FAISMUN 20231": "$10,051,798.00",
+        "FORTAMUN 20232": "$2,508,579.40"
+    },
+    {
+        "CLAVE MUNICIPIO": "20147",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Nuxaño",
+        "FAISMUN 20231": "$2,168,573.00",
+        "FORTAMUN 20232": "$336,505.70"
+    },
+    {
+        "CLAVE MUNICIPIO": "20148",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Ozolotepec",
+        "FAISMUN 20231": "$7,025,416.00",
+        "FORTAMUN 20232": "$1,952,807.01"
+    },
+    {
+        "CLAVE MUNICIPIO": "20149",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Sola",
+        "FAISMUN 20231": "$5,475,785.00",
+        "FORTAMUN 20232": "$1,806,928.21"
+    },
+    {
+        "CLAVE MUNICIPIO": "20150",
+        "NOMBRE DEL MUNICIPIO": "San Francisco Telixtlahuaca",
+        "FAISMUN 20231": "$15,071,759.00",
+        "FORTAMUN 20232": "$12,400,593.03"
+    },
+    {
+        "CLAVE MUNICIPIO": "20185",
+        "NOMBRE DEL MUNICIPIO": "San Juan Cacahuatepec",
+        "FAISMUN 20231": "$15,505,010.00",
+        "FORTAMUN 20232": "$8,000,065.03"
+    },
+    {
+        "CLAVE MUNICIPIO": "20186",
+        "NOMBRE DEL MUNICIPIO": "San Juan Cieneguilla",
+        "FAISMUN 20231": "$2,746,092.00",
+        "FORTAMUN 20232": "$468,960.07"
+    },
+    {
+        "CLAVE MUNICIPIO": "20187",
+        "NOMBRE DEL MUNICIPIO": "San Juan Coatzospam",
+        "FAISMUN 20231": "$10,836,483.00",
+        "FORTAMUN 20232": "$1,618,091.24"
+    },
+    {
+        "CLAVE MUNICIPIO": "20188",
+        "NOMBRE DEL MUNICIPIO": "San Juan Colorado",
+        "FAISMUN 20231": "$29,546,185.00",
+        "FORTAMUN 20232": "$8,599,689.55"
+    },
+    {
+        "CLAVE MUNICIPIO": "20189",
+        "NOMBRE DEL MUNICIPIO": "San Juan Comaltepec",
+        "FAISMUN 20231": "$17,000,117.00",
+        "FORTAMUN 20232": "$2,788,701.49"
+    },
+    {
+        "CLAVE MUNICIPIO": "20190",
+        "NOMBRE DEL MUNICIPIO": "San Juan Cotzocón",
+        "FAISMUN 20231": "$53,024,323.00",
+        "FORTAMUN 20232": "$20,086,526.41"
+    },
+    {
+        "CLAVE MUNICIPIO": "20191",
+        "NOMBRE DEL MUNICIPIO": "San Juan Chicomezúchil",
+        "FAISMUN 20231": "$1,391,582.00",
+        "FORTAMUN 20232": "$264,908.74"
+    },
+    {
+        "CLAVE MUNICIPIO": "20192",
+        "NOMBRE DEL MUNICIPIO": "San Juan Chilateca",
+        "FAISMUN 20231": "$2,773,812.00",
+        "FORTAMUN 20232": "$1,362,132.12"
+    },
+    {
+        "CLAVE MUNICIPIO": "20193",
+        "NOMBRE DEL MUNICIPIO": "San Juan del Estado",
+        "FAISMUN 20231": "$4,893,437.00",
+        "FORTAMUN 20232": "$2,512,158.24"
+    },
+    {
+        "CLAVE MUNICIPIO": "20194",
+        "NOMBRE DEL MUNICIPIO": "San Juan del Rio De",
+        "FAISMUN 20231": "$2,959,566.00",
+        "FORTAMUN 20232": "$1,227,887.82"
+    },
+    {
+        "CLAVE MUNICIPIO": "20195",
+        "NOMBRE DEL MUNICIPIO": "San Juan Diuxi",
+        "FAISMUN 20231": "$4,834,792.00",
+        "FORTAMUN 20232": "$945,079.84"
+    },
+    {
+        "CLAVE MUNICIPIO": "20196",
+        "NOMBRE DEL MUNICIPIO": "San Juan Evangelista Analco",
+        "FAISMUN 20231": "$2,402;596.00",
+        "FORTAMUN 20232": "$364,249.52"
+    },
+    {
+        "CLAVE MUNICIPIO": "20197",
+        "NOMBRE DEL MUNICIPIO": "San Juan Guelavia",
+        "FAISMUN 20231": "$7,559,839.00",
+        "FORTAMUN 20232": "$2,942,634.95"
+    },
+    {
+        "CLAVE MUNICIPIO": "20198",
+        "NOMBRE DEL MUNICIPIO": "San Juan Guichicovi",
+        "FAISMUN 20231": "$66,350,365.00",
+        "FORTAMUN 20232": "$26,671,656.58"
+    },
+    {
+        "CLAVE MUNICIPIO": "20199",
+        "NOMBRE DEL MUNICIPIO": "San Juan Ihualtepec",
+        "FAISMUN 20231": "$3,690,042.00",
+        "FORTAMUN 20232": "$442,111.21"
+    },
+    {
+        "CLAVE MUNICIPIO": "20200",
+        "NOMBRE DEL MUNICIPIO": "San Juan Juquila Mixes",
+        "FAISMUN 20231": "$12,693,878.00",
+        "FORTAMUN 20232": "$3,314,044.17"
+    },
+    {
+        "CLAVE MUNICIPIO": "20201",
+        "NOMBRE DEL MUNICIPIO": "San Juan Juquila Vijanos",
+        "FAISMUN 20231": "$5,313,759.00",
+        "FORTAMUN 20232": "$1,682,528.50"
+    },
+    {
+        "CLAVE MUNICIPIO": "20202",
+        "NOMBRE DEL MUNICIPIO": "San Juan Lachao",
+        "FAISMUN 20231": "$11,604,378.00",
+        "FORTAMUN 20232": "$4,096,240.93"
+    },
+    {
+        "CLAVE MUNICIPIO": "20203",
+        "NOMBRE DEL MUNICIPIO": "San Juan Lachigalla",
+        "FAISMUN 20231": "$11,774,526.00",
+        "FORTAMUN 20232": "$3,166,375.44"
+    },
+    {
+        "CLAVE MUNICIPIO": "20204",
+        "NOMBRE DEL MUNICIPIO": "San Juan Lajarcia",
+        "FAISMUN 20231": "$3,140,477.00",
+        "FORTAMUN 20232": "$567,405.89"
+    },
+    {
+        "CLAVE MUNICIPIO": "20205",
+        "NOMBRE DEL MUNICIPIO": "San Juan Lalana",
+        "FAISMUN 20231": "$80,570,709.00",
+        "FORTAMUN 20232": "$15,204,508,88"
+    },
+    {
+        "CLAVE MUNICIPIO": "20206",
+        "NOMBRE DEL MUNICIPIO": "San Juan de los Cués",
+        "FAISMUN 20231": "$5,628,540.00",
+        "FORTAMUN 20232": "$2,166,702.93"
+    },
+    {
+        "CLAVE MUNICIPIO": "2020720208",
+        "NOMBRE DEL MUNICIPIO": "San Juan Mazatlán San Juan Mixtepec",
+        "FAISMUN 20231": "$69,367,554.00$27,139,573.00",
+        "FORTAMUN 20232": "$17,032,916.18$6,211,931.02"
+    },
+    {
+        "CLAVE MUNICIPIO": "20209",
+        "NOMBRE DEL MUNICIPIO": "San Juan Mixtepec",
+        "FAISMUN 20231": "$4,314,397.00",
+        "FORTAMUN 20232": "$543,241.91"
+    },
+    {
+        "CLAVE MUNICIPIO": "20210",
+        "NOMBRE DEL MUNICIPIO": "San Juan Numi",
+        "FAISMUN 20231": "$22,808,083.00",
+        "FORTAMUN 20232": "$5,166,615.44"
+    },
+    {
+        "CLAVE MUNICIPIO": "20211",
+        "NOMBRE DEL MUNICIPIO": "San Juan Ozolotepec",
+        "FAISMUN 20231": "$12,269,780.00",
+        "FORTAMUN 20232": "$3,052,715.27"
+    },
+    {
+        "CLAVE MUNICIPIO": "20212",
+        "NOMBRE DEL MUNICIPIO": "San Juan Petlapa",
+        "FAISMUN 20231": "$24,145,129.00",
+        "FORTAMUN 20232": "$2,789,596.45"
+    },
+    {
+        "CLAVE MUNICIPIO": "20213",
+        "NOMBRE DEL MUNICIPIO": "San Juan Quiahije ",
+        "FAISMUN 20231": "$11,628,624.00",
+        "FORTAMUN 20232": "$3,761,525.15"
+    },
+    {
+        "CLAVE MUNICIPIO": "20214",
+        "NOMBRE DEL MUNICIPIO": "San Juan Quiotepec",
+        "FAISMUN 20231": "$6,446,058.00",
+        "FORTAMUN 20232": "$1,819,457.68"
+    },
+    {
+        "CLAVE MUNICIPIO": "20215",
+        "NOMBRE DEL MUNICIPIO": "San Juan Sayultepec",
+        "FAISMUN 20231": "$2,018,957.00",
+        "FORTAMUN 20232": "$786,671.57"
+    },
+    {
+        "CLAVE MUNICIPIO": "20216",
+        "NOMBRE DEL MUNICIPIO": "San Juan Tabaá",
+        "FAISMUN 20231": "$3,024,660.00",
+        "FORTAMUN 20232": "$1,110,647.80"
+    },
+    {
+        "CLAVE MUNICIPIO": "20217",
+        "NOMBRE DEL MUNICIPIO": "San Juan Tamazola",
+        "FAISMUN 20231": "$17,587,918.00",
+        "FORTAMUN 20232": "$2,975,748.54"
+    },
+    {
+        "CLAVE MUNICIPIO": "20218",
+        "NOMBRE DEL MUNICIPIO": "San Juan Teita",
+        "FAISMUN 20231": "$2,889,504.00",
+        "FORTAMUN 20232": "$486,859.31"
+    },
+    {
+        "CLAVE MUNICIPIO": "20219",
+        "NOMBRE DEL MUNICIPIO": "San Juan Teltipac",
+        "FAISMUN 20231": "$7,374,291.00",
+        "FORTAMUN 20232": "$2,387,758:53"
+    },
+    {
+        "CLAVE MUNICIPIO": "20290.",
+        "NOMBRE DEL MUNICIPIO": "San Nicolás Hidalgo",
+        "FAISMUN 20231": "$3,153,753.00",
+        "FORTAMUN 20232": "$933,445.33"
+    },
+    {
+        "CLAVE MUNICIPIO": "20291",
+        "NOMBRE DEL MUNICIPIO": "San Pablo Coatlán",
+        "FAISMUN 20231": "$12,592,465.00",
+        "FORTAMUN 20232": "$3,855,496.16"
+    },
+    {
+        "CLAVE MUNICIPIO": "20292",
+        "NOMBRE DEL MUNICIPIO": "San Pablo Cuatro Venados",
+        "FAISMUN 20231": "$7,300,768.00",
+        "FORTAMUN 20232": "$1,351,392.57"
+    },
+    {
+        "CLAVE MUNICIPIO": "20293",
+        "NOMBRE DEL MUNICIPIO": "San Pablo Etla",
+        "FAISMUN 20231": "$9,178,809.00",
+        "FORTAMUN 20232": "$15,318,169.05"
+    },
+    {
+        "CLAVE MUNICIPIO": "20294",
+        "NOMBRE DEL MUNICIPIO": "San Pablo Huitzo",
+        "FAISMUN 20231": "$8,551,640.00",
+        "FORTAMUN 20232": "$6,296,057.45"
+    },
+    {
+        "CLAVE MUNICIPIO": "20295",
+        "NOMBRE DEL MUNICIPIO": "San Pablo Huixtepec",
+        "FAISMUN 20231": "$12,731,891.00",
+        "FORTAMUN 20232": "$8,967,518.92"
+    },
+    {
+        "CLAVE MUNICIPIO": "20296",
+        "NOMBRE DEL MUNICIPIO": "San Pablo Macuiltianguis",
+        "FAISMUN 20231": "$3,381,993.00",
+        "FORTAMUN 20232": "$854,688.68"
+    },
+    {
+        "CLAVE MUNICIPIO": "20297",
+        "NOMBRE DEL MUNICIPIO": "San Pablo Tijaltepec",
+        "FAISMUN 20231": "$10,463,620.00",
+        "FORTAMUN 20232": "$2,462,040.37"
+    },
+    {
+        "CLAVE MUNICIPIO": "20298",
+        "NOMBRE DEL MUNICIPIO": "San Pablo Villa de Mitla",
+        "FAISMUN 20231": "$24,092,874.00",
+        "FORTAMUN 20232": "$12,159,848.26"
+    },
+    {
+        "CLAVE MUNICIPIO": "20299",
+        "NOMBRE DEL MUNICIPIO": "e San Pablo Yaganiza",
+        "FAISMUN 20231": "$3,185,802.00",
+        "FORTAMUN 20232": "$1,006,832.21"
+    },
+    {
+        "CLAVE MUNICIPIO": "20300",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Amuzgos",
+        "FAISMUN 20231": "$20,042,961.00",
+        "FORTAMUN 20232": "$5,935,387.77"
+    },
+    {
+        "CLAVE MUNICIPIO": "20301",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Apóstol",
+        "FAISMUN 20231": "$3,045,490.00",
+        "FORTAMUN 20232": "$1,426,569.38"
+    },
+    {
+        "CLAVE MUNICIPIO": "20302",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Atoyac",
+        "FAISMUN 20231": "$13,716,209.00",
+        "FORTAMUN 20232": "$4,080,131.61"
+    },
+    {
+        "CLAVE MUNICIPIO": "20303",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Cajonos",
+        "FAISMUN 20231": "$2,737,019.00",
+        "FORTAMUN 20232": "$967,453.89"
+    },
+    {
+        "CLAVE MUNICIPIO": "20304",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Coxcaltepec Cántaros",
+        "FAISMUN 20231": "$3,989,862.00",
+        "FORTAMUN 20232": "$640,792.77"
+    },
+    {
+        "CLAVE MUNICIPIO": "20305",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Comitancillo",
+        "FAISMUN 20231": "$4,115,515.00",
+        "FORTAMUN 20232": "$3,877,870.21"
+    },
+    {
+        "CLAVE MUNICIPIO": "20306",
+        "NOMBRE DEL MUNICIPIO": "San Pedro el Alto",
+        "FAISMUN 20231": "$13,727,387.00",
+        "FORTAMUN 20232": "$4,165,153.00"
+    },
+    {
+        "CLAVE MUNICIPIO": "20307",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Huamelula",
+        "FAISMUN 20231": "$15,869,945.00",
+        "FORTAMUN 20232": "$8,712,454.76"
+    },
+    {
+        "CLAVE MUNICIPIO": "20308",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Huilotepec",
+        "FAISMUN 20231": "$6,107,577.00",
+        "FORTAMUN 20232": "$2,959,639.23"
+    },
+    {
+        "CLAVE MUNICIPIO": "20309",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Ixcatlán",
+        "FAISMUN 20231": "$32,592,108.00",
+        "FORTAMUN 20232": "$9,278,965.69"
+    },
+    {
+        "CLAVE MUNICIPIO": "20310",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Ixtlahuaca",
+        "FAISMUN 20231": "$18,165,540.00",
+        "FORTAMUN 20232": "$13,023,486.56"
+    },
+    {
+        "CLAVE MUNICIPIO": "20311",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Jaltepetongo",
+        "FAISMUN 20231": "$2,673,072.00",
+        "FORTAMUN 20232": "$432,266.63"
+    },
+    {
+        "CLAVE MUNICIPIO": "20312",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Jicayan",
+        "FAISMUN 20231": "$35,505,482.00",
+        "FORTAMUN 20232": "$10,094,276.04"
+    },
+    {
+        "CLAVE MUNICIPIO": "20313",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Jocotipac",
+        "FAISMUN 20231": "$4,388,519.00",
+        "FORTAMUN 20232": "$653,322.24"
+    },
+    {
+        "CLAVE MUNICIPIO": "20314",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Juchatengo",
+        "FAISMUN 20231": "$3,281,077.00",
+        "FORTAMUN 20232": "$1,570,658.25"
+    },
+    {
+        "CLAVE MUNICIPIO": "20315",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Mártir",
+        "FAISMUN 20231": "$6,423,712.00",
+        "FORTAMUN 20232": "$1,699,532.78"
+    },
+    {
+        "CLAVE MUNICIPIO": "20316",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Mártir Quiechapa",
+        "FAISMUN 20231": "$2,578,330.00",
+        "FORTAMUN 20232": "$660,481.93"
+    },
+    {
+        "CLAVE MUNICIPIO": "20317",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Mártir Yucuxaco",
+        "FAISMUN 20231": "$4,786,698.00",
+        "FORTAMUN 20232": "$1,124,967.19"
+    },
+    {
+        "CLAVE MUNICIPIO": "20318",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Mixtepec",
+        "FAISMUN 20231": "$48,543,263.00",
+        "FORTAMUN 20232": "$44,551,206.78"
+    },
+    {
+        "CLAVE MUNICIPIO": "20319",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Mixtepec",
+        "FAISMUN 20231": "$4,408,135.00",
+        "FORTAMUN 20232": "$869,903.03"
+    },
+    {
+        "CLAVE MUNICIPIO": "20320",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Molinos",
+        "FAISMUN 20231": "$3,115,504.00",
+        "FORTAMUN 20232": "$631,843.15."
+    },
+    {
+        "CLAVE MUNICIPIO": "20321",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Nopala",
+        "FAISMUN 20231": "$3,166,814.00",
+        "FORTAMUN 20232": "$672,116.44"
+    },
+    {
+        "CLAVE MUNICIPIO": "20322",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Ocopetatillo",
+        "FAISMUN 20231": "$4,251,821.00",
+        "FORTAMUN 20232": "TANA"
+    },
+    {
+        "CLAVE MUNICIPIO": "20323",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Ocotepec",
+        "FAISMUN 20231": "$7,811,403.00",
+        "FORTAMUN 20232": "$2,151,488.57"
+    },
+    {
+        "CLAVE MUNICIPIO": "20324",
+        "NOMBRE DEL MUNICIPIO": "San Pedro Pochutia",
+        "FAISMUN 20231": "$77,800,995.00",
+        "FORTAMUN 20232": "$43,140,746.72"
+    },
+    {
+        "CLAVE MUNICIPIO": "20429",
+        "NOMBRE DEL MUNICIPIO": "Santa Maria Sola",
+        "FAISMUN 20231": "$5,903,868.00",
+        "FORTAMUN 20232": "$1,356,762.34"
+    },
+    {
+        "CLAVE MUNICIPIO": "20430",
+        "NOMBRE DEL MUNICIPIO": "Santa Maria Tataltepec",
+        "FAISMUN 20231": "$3,128,008.00",
+        "FORTAMUN 20232": "$283,702.94"
+    },
+    {
+        "CLAVE MUNICIPIO": "20431",
+        "NOMBRE DEL MUNICIPIO": "Santa María Tecomavaca",
+        "FAISMUN 20231": "$3,661,798.00",
+        "FORTAMUN 20232": "$1,637,780,40"
+    },
+    {
+        "CLAVE MUNICIPIO": "20432",
+        "NOMBRE DEL MUNICIPIO": "Santa María Temaxcalapa",
+        "FAISMUN 20231": "$4,405,775.00",
+        "FORTAMUN 20232": "$808,150.66"
+    },
+    {
+        "CLAVE MUNICIPIO": "20433",
+        "NOMBRE DEL MUNICIPIO": "Santa Maria Temaxcaltepec",
+        "FAISMUN 20231": "$10,263,470.00",
+        "FORTAMUN 20232": "$2,411,027.54"
+    },
+    {
+        "CLAVE MUNICIPIO": "20434",
+        "NOMBRE DEL MUNICIPIO": "Santa María Teopoxco",
+        "FAISMUN 20231": "$12,514,565.00",
+        "FORTAMUN 20232": "$3,566,423.44"
+    },
+    {
+        "CLAVE MUNICIPIO": "20435",
+        "NOMBRE DEL MUNICIPIO": "Santa Maria Tepantlali",
+        "FAISMUN 20231": "$15,290,073.00",
+        "FORTAMUN 20232": "$3,200,384.00"
+    },
+    {
+        "CLAVE MUNICIPIO": "20436",
+        "NOMBRE DEL MUNICIPIO": "Santa María Texcatitlán",
+        "FAISMUN 20231": "$4,822,264.00",
+        "FORTAMUN 20232": "$801,885.92"
+    },
+    {
+        "CLAVE MUNICIPIO": "20437",
+        "NOMBRE DEL MUNICIPIO": "Santa María Tlahuitoltepec",
+        "FAISMUN 20231": "$41,488,194.00",
+        "FORTAMUN 20232": "$8,639,067.88"
+    },
+    {
+        "CLAVE MUNICIPIO": "20438",
+        "NOMBRE DEL MUNICIPIO": "Santa María Tlalixtac",
+        "FAISMUN 20231": "$6,507,148.00",
+        "FORTAMUN 20232": "$1,645,835.06"
+    },
+    {
+        "CLAVE MUNICIPIO": "20439",
+        "NOMBRE DEL MUNICIPIO": "Santa María Tonameca",
+        "FAISMUN 20231": "$57,214,960.00",
+        "FORTAMUN 20232": "$22,684,601.01"
+    },
+    {
+        "CLAVE MUNICIPIO": "20440",
+        "NOMBRE DEL MUNICIPIO": "Santa Marla Totolapilla",
+        "FAISMUN 20231": "$3,177,705.00",
+        "FORTAMUN 20232": "$726,709.12"
+    },
+    {
+        "CLAVE MUNICIPIO": "20441",
+        "NOMBRE DEL MUNICIPIO": "Santa Maria Xadani",
+        "FAISMUN 20231": "$19,617,870.00",
+        "FORTAMUN 20232": "$8,264,078.81"
+    },
+    {
+        "CLAVE MUNICIPIO": "20442",
+        "NOMBRE DEL MUNICIPIO": "Santa María Yalina",
+        "FAISMUN 20231": "$4,594,237.00",
+        "FORTAMUN 20232": "$223,740.49"
+    },
+    {
+        "CLAVE MUNICIPIO": "20443",
+        "NOMBRE DEL MUNICIPIO": "Santa Maria Yavesia",
+        "FAISMUN 20231": "$5,896,602.00",
+        "FORTAMUN 20232": "$388,413.49"
+    },
+    {
+        "CLAVE MUNICIPIO": "20444.",
+        "NOMBRE DEL MUNICIPIO": "Santa María Yolotepec",
+        "FAISMUN 20231": "$2,746,491.00",
+        "FORTAMUN 20232": "$430,476.71"
+    },
+    {
+        "CLAVE MUNICIPIO": "20445",
+        "NOMBRE DEL MUNICIPIO": "Santa Maria Yosoyúa",
+        "FAISMUN 20231": "$6,084,378.00",
+        "FORTAMUN 20232": "$1,520,540.38"
+    },
+    {
+        "CLAVE MUNICIPIO": "20446",
+        "NOMBRE DEL MUNICIPIO": "Santa Maria Yucuhiti",
+        "FAISMUN 20231": "$18,650,114.00",
+        "FORTAMUN 20232": "$5,376,931.50"
+    },
+    {
+        "CLAVE MUNICIPIO": "20447",
+        "NOMBRE DEL MUNICIPIO": "Santa María Zacatepec",
+        "FAISMUN 20231": "$36,491,172.00",
+        "FORTAMUN 20232": "$15,303,849.66"
+    },
+    {
+        "CLAVE MUNICIPIO": "20448",
+        "NOMBRE DEL MUNICIPIO": "Santa Maria Zaniza",
+        "FAISMUN 20231": "$9,052,607.00",
+        "FORTAMUN 20232": "$2,209,661.10"
+    },
+    {
+        "CLAVE MUNICIPIO": "20449",
+        "NOMBRE DEL MUNICIPIO": "Santa Maria Zoquitlán",
+        "FAISMUN 20231": "$7,673,866.00",
+        "FORTAMUN 20232": "$2,948,004.72"
+    },
+    {
+        "CLAVE MUNICIPIO": "20450",
+        "NOMBRE DEL MUNICIPIO": "Santiago Amoltepec",
+        "FAISMUN 20231": "$78,234,275.00",
+        "FORTAMUN 20232": "$12,399,698.07"
+    },
+    {
+        "CLAVE MUNICIPIO": "20451",
+        "NOMBRE DEL MUNICIPIO": "Santiago Apoala",
+        "FAISMUN 20231": "$4,866,595.00",
+        "FORTAMUN 20232": "$911,966.25"
+    },
+    {
+        "CLAVE MUNICIPIO": "20452",
+        "NOMBRE DEL MUNICIPIO": "Santiago Apóstol",
+        "FAISMUN 20231": "$14,820,886.00",
+        "FORTAMUN 20232": "$3,956,626.86"
+    },
+    {
+        "CLAVE MUNICIPIO": "20453",
+        "NOMBRE DEL MUNICIPIO": "Santiago Astata",
+        "FAISMUN 20231": "$6,843,631.00",
+        "FORTAMUN 20232": "$3,506,460.99"
+    },
+    {
+        "CLAVE MUNICIPIO": "20454",
+        "NOMBRE DEL MUNICIPIO": "Santiago Atitlán",
+        "FAISMUN 20231": "$14,580,295.00",
+        "FORTAMUN 20232": "$3,182,484.76"
+    },
+    {
+        "CLAVE MUNICIPIO": "20455",
+        "NOMBRE DEL MUNICIPIO": "Santiago Ayuquililla",
+        "FAISMUN 20231": "$8,242,165.00",
+        "FORTAMUN 20232": "$2,598,969.56"
+    },
+    {
+        "CLAVE MUNICIPIO": "20456",
+        "NOMBRE DEL MUNICIPIO": "Santiago Cacaloxtepec",
+        "FAISMUN 20231": "$4,251,928.00",
+        "FORTAMUN 20232": "$1,491,901.60"
+    },
+    {
+        "CLAVE MUNICIPIO": "20457",
+        "NOMBRE DEL MUNICIPIO": "Santiago Camotián",
+        "FAISMUN 20231": "$19,355,112.00",
+        "FORTAMUN 20232": "$2,994,542.75"
+    },
+    {
+        "CLAVE MUNICIPIO": "20458",
+        "NOMBRE DEL MUNICIPIO": "Santiago Comaltepec",
+        "FAISMUN 20231": "$3,738,631.00",
+        "FORTAMUN 20232": "$1,035,471.00"
+    },
+    {
+        "CLAVE MUNICIPIO": "20459",
+        "NOMBRE DEL MUNICIPIO": "Villa de Santiago Chazumbal",
+        "FAISMUN 20231": "$8,226,406.00",
+        "FORTAMUN 20232": "$4,364,729.52"
+    },
+    {
+        "CLAVE MUNICIPIO": "20460",
+        "NOMBRE DEL MUNICIPIO": "Santiago Choápam",
+        "FAISMUN 20231": "$22,266,878.00",
+        "FORTAMUN 20232": "$4,691,390.64"
+    },
+    {
+        "CLAVE MUNICIPIO": "20461",
+        "NOMBRE DEL MUNICIPIO": "Santiago del Río",
+        "FAISMUN 20231": "$3,801,245.00",
+        "FORTAMUN 20232": "$471,644.96"
+    },
+    {
+        "CLAVE MUNICIPIO": "20462",
+        "NOMBRE DEL MUNICIPIO": "Santiago Huajolotitlán",
+        "FAISMUN 20231": "$7,095,816.00",
+        "FORTAMUN 20232": "$4,116,825.05"
+    },
+    {
+        "CLAVE MUNICIPIO": "20463",
+        "NOMBRE DEL MUNICIPIO": "Santiago Huauclilla",
+        "FAISMUN 20231": "$3,318,526.00",
+        "FORTAMUN 20232": "$469,855.03"
+    },
+    {
+        "CLAVE MUNICIPIO": "20534",
+        "NOMBRE DEL MUNICIPIO": "San Vicente Coatian",
+        "FAISMUN 20231": "$14,535,219.00",
+        "FORTAMUN 20232": "$3,143,106.43"
+    },
+    {
+        "CLAVE MUNICIPIO": "20535",
+        "NOMBRE DEL MUNICIPIO": "San Vicente Lachixlo",
+        "FAISMUN 20231": "$13,587,130.00",
+        "FORTAMUN 20232": "$2,888,04227"
+    },
+    {
+        "CLAVE MUNICIPIO": "20536",
+        "NOMBRE DEL MUNICIPIO": "San Vicente Nuño",
+        "FAISMUN 20231": "$2,947.397.00",
+        "FORTAMUN 20232": "$401,837.92"
+    },
+    {
+        "CLAVE MUNICIPIO": "20537",
+        "NOMBRE DEL MUNICIPIO": "Silacayo pam",
+        "FAISMUN 20231": "$18,164,088.00",
+        "FORTAMUN 20232": "$6,005,104.81"
+    },
+    {
+        "CLAVE MUNICIPIO": "20538",
+        "NOMBRE DEL MUNICIPIO": "Sitio de Xitlapehua",
+        "FAISMUN 20231": "$2.413,001.00",
+        "FORTAMUN 20232": "$630,107.8810"
+    },
+    {
+        "CLAVE MUNICIPIO": "20539",
+        "NOMBRE DEL MUNICIPIO": "Soledad Eta",
+        "FAISMUN 20231": "$5.769,096.00",
+        "FORTAMUN 20232": "$5.681,218.57"
+    },
+    {
+        "CLAVE MUNICIPIO": "20540",
+        "NOMBRE DEL MUNICIPIO": "Villa de Tamazulápam del Progreso",
+        "FAISMUN 20231": "$9,372,981.00",
+        "FORTAMUN 20232": "$7.451,453.35"
+    },
+    {
+        "CLAVE MUNICIPIO": "20541",
+        "NOMBRE DEL MUNICIPIO": "Tanetze de Zaragoza",
+        "FAISMUN 20231": "$5,544,708.00",
+        "FORTAMUN 20232": "$1.394,350.7522"
+    },
+    {
+        "CLAVE MUNICIPIO": "20542",
+        "NOMBRE DEL MUNICIPIO": "Taniche",
+        "FAISMUN 20231": "$2,680296.00",
+        "FORTAMUN 20232": "$793,831.27"
+    },
+    {
+        "CLAVE MUNICIPIO": "20543",
+        "NOMBRE DEL MUNICIPIO": "Tataltepec de Valdés",
+        "FAISMUN 20231": "$24,894,257.00",
+        "FORTAMUN 20232": "$5,715,227.13"
+    },
+    {
+        "CLAVE MUNICIPIO": "20544",
+        "NOMBRE DEL MUNICIPIO": "Teococulico de Marcos Pérez",
+        "FAISMUN 20231": "$3,428,017.00.",
+        "FORTAMUN 20232": "3923,600.75"
+    },
+    {
+        "CLAVE MUNICIPIO": "20545",
+        "NOMBRE DEL MUNICIPIO": "Teotitian de Flores Magón",
+        "FAISMUN 20231": "$11.938,371.00",
+        "FORTAMUN 20232": "$9,038.220.92"
+    },
+    {
+        "CLAVE MUNICIPIO": "20546",
+        "NOMBRE DEL MUNICIPIO": "Teatitlán del Valle",
+        "FAISMUN 20231": "$12,487,508,00",
+        "FORTAMUN 20232": "$5,720.598.90"
+    },
+    {
+        "CLAVE MUNICIPIO": "20647",
+        "NOMBRE DEL MUNICIPIO": "Teotongo",
+        "FAISMUN 20231": "$4,227,607.00",
+        "FORTAMUN 20232": "$899,436.78"
+    },
+    {
+        "CLAVE MUNICIPIO": "20548",
+        "NOMBRE DEL MUNICIPIO": "Tepelmeme Villa de Morelos",
+        "FAISMUN 20231": "$5.230,047.00",
+        "FORTAMUN 20232": "$1,754.125.46"
+    },
+    {
+        "CLAVE MUNICIPIO": "20649",
+        "NOMBRE DEL MUNICIPIO": "Heroica Villa Tezoatlán de Segura y Luna ,Cuna de la Independencia",
+        "FAISMUN 20231": "$29,205,181.00",
+        "FORTAMUN 20232": "$10.260,738.97"
+    },
+    {
+        "CLAVE MUNICIPIO": "20550",
+        "NOMBRE DEL MUNICIPIO": "San Jerónimo Tlacochahuaya",
+        "FAISMUN 20231": "$9,073,385.00",
+        "FORTAMUN 20232": "$5,158.560.78"
+    },
+    {
+        "CLAVE MUNICIPIO": "20551",
+        "NOMBRE DEL MUNICIPIO": "Tlacolula de Matamoros",
+        "FAISMUN 20231": "PANICA $26,629,093.00",
+        "FORTAMUN 20232": "$27.076.179.39"
+    },
+    {
+        "CLAVE MUNICIPIO": "20652",
+        "NOMBRE DEL MUNICIPIO": "Tlacotepec Plumas",
+        "FAISMUN 20231": "$2,699,783.00",
+        "FORTAMUN 20232": "$366.934.41"
+    },
+    {
+        "CLAVE MUNICIPIO": "20553",
+        "NOMBRE DEL MUNICIPIO": "Tlalixtac de Cabrera",
+        "FAISMUN 20231": "$12,102,566.00",
+        "FORTAMUN 20232": "$10,799,506.07"
+    },
+    {
+        "CLAVE MUNICIPIO": "20554",
+        "NOMBRE DEL MUNICIPIO": "Totontepec Villa de Morelos",
+        "FAISMUN 20231": "$17.940,411.00",
+        "FORTAMUN 20232": "35,283855.48"
+    },
+    {
+        "CLAVE MUNICIPIO": "20555",
+        "NOMBRE DEL MUNICIPIO": "Trinildad Zaachila",
+        "FAISMUN 20231": "$6,298,603.00",
+        "FORTAMUN 20232": "$3,059,874.97"
+    },
+    {
+        "CLAVE MUNICIPIO": "20553",
+        "NOMBRE DEL MUNICIPIO": "La Trinidad Vista Hermosa",
+        "FAISMUN 20231": "$2,044,056.00",
+        "FORTAMUN 20232": "$273.068.36"
+    },
+    {
+        "CLAVE MUNICIPIO": "20557",
+        "NOMBRE DEL MUNICIPIO": "Union Hidalgo",
+        "FAISMUN 20231": "DZ $14.751,273.00",
+        "FORTAMUN 20232": "$13,014.536.94"
+    },
+    {
+        "CLAVE MUNICIPIO": "20558",
+        "NOMBRE DEL MUNICIPIO": "Valerio Trujano",
+        "FAISMUN 20231": "$3,979,301.00",
+        "FORTAMUN 20232": "$1,231,467.07."
+    },
+    {
+        "CLAVE MUNICIPIO": "20569",
+        "NOMBRE DEL MUNICIPIO": "San Juan Bautista Valle Nacional .",
+        "FAISMUN 20231": "$46,375,046.00",
+        "FORTAMUN 20232": "$20,644087.72"
+    },
+    {
+        "CLAVE MUNICIPIO": "20660",
+        "NOMBRE DEL MUNICIPIO": "Villa Ellaz Ordaz",
+        "FAISMUN 20231": "$18.651,258.00",
+        "FORTAMUN 20232": "$5,787,719.05"
+    },
+    {
+        "CLAVE MUNICIPIO": "20661",
+        "NOMBRE DEL MUNICIPIO": "Yaxe",
+        "FAISMUN 20231": "$10,082,187.00",
+        "FORTAMUN 20232": "$2,643,717.65"
+    },
+    {
+        "CLAVE MUNICIPIO": "20562",
+        "NOMBRE DEL MUNICIPIO": "Magdalena Yodocone de Porfiria Diaz",
+        "FAISMUN 20231": "$3,465,248.00",
+        "FORTAMUN 20232": "$1,505,326.03"
+    },
+    {
+        "CLAVE MUNICIPIO": "20563",
+        "NOMBRE DEL MUNICIPIO": "Yogana",
+        "FAISMUN 20231": "$5,094,666.00",
+        "FORTAMUN 20232": "$1,114,227.85"
+    },
+    {
+        "CLAVE MUNICIPIO": "20564",
+        "NOMBRE DEL MUNICIPIO": "Yutanduchi de Guerrera",
+        "FAISMUN 20231": "$5,685,197.00",
+        "FORTAMUN 20232": "$1,069,479.55"
+    },
+    {
+        "CLAVE MUNICIPIO": "20565#Super",
+        "NOMBRE DEL MUNICIPIO": "Villa de Zaachila",
+        "FAISMUN 20231": "424AFR $71,666,327.00",
+        "FORTAMUN 20232": "$41,583,512.89"
+    },
+    {
+        "CLAVE MUNICIPIO": "20566",
+        "NOMBRE DEL MUNICIPIO": "San Mateo Yucutindoo",
+        "FAISMUN 20231": "$10,678,198.00",
+        "FORTAMUN 20232": "$2,813,760.43"
+    },
+    {
+        "CLAVE MUNICIPIO": "20567",
+        "NOMBRE DEL MUNICIPIO": "Zapotitlán Lagunas",
+        "FAISMUN 20231": "SEPT $10,654,459.00",
+        "FORTAMUN 20232": "$3,026,761.38"
+    },
+    {
+        "CLAVE MUNICIPIO": "20568",
+        "NOMBRE DEL MUNICIPIO": "Zapotitlán Palmas",
+        "FAISMUN 20231": "$5,637,285.00",
+        "FORTAMUN 20232": "-40.00$1,516,960.54"
+    },
+    {
+        "CLAVE MUNICIPIO": "20569",
+        "NOMBRE DEL MUNICIPIO": "Santa Inés de Zaragoza",
+        "FAISMUN 20231": "$6,101,959.00",
+        "FORTAMUN 20232": "Ste $1,301,274.70"
+    },
+    {
+        "CLAVE MUNICIPIO": "20570",
+        "NOMBRE DEL MUNICIPIO": "Zimatlán de Alvarez",
+        "FAISMUN 20231": "$31,595,714.00",
+        "FORTAMUN 20232": "$19,772,394.76"
+    },
+    {
+        "CLAVE MUNICIPIO": "TOTAL",
+        "NOMBRE DEL MUNICIPIO": "$8,663,332,100.00",
+        "FAISMUN 20231": "$3,698,115,307.00"
+    }
+]
