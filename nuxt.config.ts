@@ -3,7 +3,7 @@ import { setAbsoluteSqliteDatabaseUrlForPrisma } from './prisma/utils'
 setAbsoluteSqliteDatabaseUrlForPrisma()
 
 export default defineNuxtConfig({
-  extends: ['nuxt-seo-kit', '@sidebase/core'],
+  extends: ['nuxt-seo-kit', '@sidebase/core', './auth'],
   runtimeConfig: {
     version: '0.0.1',
     indexable: true,

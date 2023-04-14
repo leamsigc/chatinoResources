@@ -9,12 +9,12 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@prisma/client": "^4.8.1",
     "nuxt": "^3.4.0",
-    "prisma": "^4.8.1"
-  },
-  "dependencies": {
+    "prisma": "^4.8.1",
+    "@prisma/client": "^4.8.1",
     "@lucia-auth/adapter-prisma": "^1.0.0",
     "lucia-auth": "^1.0.0"
+  },
+  "dependencies": {
   }
 }
