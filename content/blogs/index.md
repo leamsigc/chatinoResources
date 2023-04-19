@@ -56,23 +56,27 @@ Our blog covers a wide range of topics related to the Chatino language and cultu
 
 
 
-
-
-<div class='prose text-center mx-auto dark:text-slate-200'>
+<div class='prose max-w-5xl mx-auto  dark:text-slate-200 '>
 
 
 ## Discover the Fascinating World of Chatino Language and Culture
 
-> Welcome to our blog dedicated to exploring the rich and vibrant world of Chatino language and culture. Join us on a journey of discovery as we explore the history, traditions, and language of this fascinating people.
+Welcome to our blog dedicated to exploring the rich and vibrant world of Chatino language and culture.
+Join us on a journey of discovery as we explore the history, traditions, and language of this fascinating people.
+Our blog covers a wide range of topics related to the Chatino language and culture. From language lessons and grammar tips to cultural events and traditions, we offer a comprehensive and engaging look into the world of the Chatino people.
 
-> Our blog covers a wide range of topics related to the Chatino language and culture. From language lessons and grammar tips to cultural events and traditions, we offer a comprehensive and engaging look into the world of the Chatino people.
+Whether you're a language learner, a cultural enthusiast,
+or simply curious about this unique and fascinating culture,
+our blog has something for you. Our team of experts is dedicated to providing accurate
+and engaging content that will help you deepen your knowledge and appreciation of the Chatino language and culture.
 
-> Whether you're a language learner, a cultural enthusiast, or simply curious about this unique and fascinating culture, our blog has something for you. Our team of experts is dedicated to providing accurate and engaging content that will help you deepen your knowledge and appreciation of the Chatino language and culture.
 
-So why wait? Join us on a journey of discovery today and explore the rich and vibrant world of Chatino language and culture!
+So why wait?
+**Join us** on a journey of discovery today
+and explore the rich and vibrant world of
+**Chatino language** and culture!
 
 </div>
-
 
 ---
 ::NumberContainer

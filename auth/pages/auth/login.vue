@@ -13,11 +13,10 @@
 </script>
 
 <template>
-  <main text-center class="bg-white dark:bg-slate-950">
-    <TheHeader />
-    <section class="prose max-w-full">
-      <slot />
-    </section>
-    <TheFooter />
-  </main>
+  <div>
+    content
+  </div>
 </template>
+<style scoped>
+
+</style>

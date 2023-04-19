@@ -46,16 +46,16 @@ const { numbers } = toRefs(props)
             <div class="text-9xl text-blue-500 font-black font-mono">
               {{ item.numero }}
             </div>
-            <div class="text-5xl font-semibold">
+            <div class="text-5xl font-semibold text-gray-950 ">
               {{ item.Chatino }}
             </div>
-            <div class="text-sm font-thin text-gray-400 mt-4">
+            <div class="text-sm font-thin text-gray-800 mt-4">
               {{ item.Espanol }}
             </div>
-            <div class="text-sm font-light text-gray-400 mb-4">
+            <div class="text-sm font-light text-gray-800 mb-4">
               {{ item.English }}
             </div>
-            <div class="text-xl text-gray-300">
+            <div class="text-xl text-gray-700">
               {{ item.example }}
             </div>
             <div class="text-blue-400 mt-10 text-xs">
