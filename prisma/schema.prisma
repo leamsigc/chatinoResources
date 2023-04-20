@@ -12,10 +12,12 @@ datasource db {
 }
 
 model AuthUser {
-  id           String        @id @unique
-  username     String        @unique
-  auth_session AuthSession[]
-  auth_key     AuthKey[]
+  id             String        @id @unique
+  username       String        @unique
+  auth_session   AuthSession[]
+  auth_key       AuthKey[]
+  email          String        @unique
+  email_verified Boolean
 
   @@map("auth_user")
 }

@@ -1,7 +1,9 @@
 <script lang="ts" setup>
+import { type User } from 'lucia-auth'
+
 /**
  *
- * Registration Component
+ * Component Description:Desc
  *
  * @author Reflect-Media <reflect.media GmbH>
  * @version 0.0.1
@@ -10,6 +12,45 @@
  * @todo [ ] Integration test.
  * @todo [✔] Update the typescript.
  */
+interface Response {
+  user: User
+}
+ type FetchError = Error & {
+  statusCode: number
+  statusMessage: string
+  data: {
+    message: string
+  }
+}
+
+const userRef = useUser()
+const error = ref<FetchError | null>(null)
+
+const userInformation = ref({
+  email: '',
+  password: ''
+})
+
+const HandleUserRegister = async () => {
+  try {
+    const { user } = await $fetch<Response>('/api/auth/register', {
+      method: 'POST',
+      body: {
+        email: userInformation.value.email,
+        password: userInformation.value.password
+      }
+    })
+    console.log(user)
+
+    userRef.value = user
+    navigateTo('/')
+  } catch (resError) {
+    console.log(resError)
+    error.value = resError as unknown as FetchError
+  }
+}
+
+const errorMessage = computed(() => (error.value as FetchError)?.data?.message ?? '')
 </script>
 
 <template>
@@ -25,12 +66,15 @@
           Create an account to enjoy all the services without any ads for free!
         </p>
       </div>
-      <div class="space-y-4">
-        <input type="text" placeholder="Email Addres" class="block text-sm py-3 px-4 rounded-lg w-full border outline-none">
-        <input type="text" placeholder="Password" class="block text-sm py-3 px-4 rounded-lg w-full border outline-none">
+      <p v-if="error" class="text-error">
+        {{ errorMessage }}
+      </p>
+      <div class="space-y-4 text-left">
+        <n-input v-model:value="userInformation.email" type="text" placeholder="Email Addres" class="block text-sm py-1 px-4 rounded-lg w-full border outline-none" />
+        <n-input v-model:value="userInformation.password" type="text" placeholder="Password" class="block text-sm py-1 px-4 rounded-lg w-full border outline-none" />
       </div>
       <div class="text-center mt-6">
-        <button class="py-3 w-64 text-xl text-white bg-green rounded-2xl">
+        <button class="py-3 w-64 text-xl text-white bg-green rounded-2xl" @click="HandleUserRegister">
           Create Account
         </button>
         <p class="mt-4 text-sm">
