@@ -38,7 +38,7 @@ nav.value = [
 </script>
 
 <template>
-  <header aria-label="Site Header" class="bg-white dark:bg-teal-900">
+  <header aria-label="Site Header" class="bg-white dark:bg-green-9">
     <div class="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
       <div class="flex h-16 items-center justify-between">
         <div class="md:flex md:items-center md:gap-12">
@@ -74,8 +74,16 @@ nav.value = [
 
         <div class="flex items-center gap-4">
           <div class="sm:flex sm:gap-4">
-            <SlackButton class="rounded-md bg-teal-700 px-5 py-2.5 text-sm font-medium text-white shadow" />
+            <SlackButton class="rounded-md bg-green px-5 py-2.5 text-sm font-medium text-white shadow" />
 
+            <div class="hidden sm:flex">
+              <NuxtLink class="rounded-md dark:bg-gray-100 text-gray-950 px-5 py-2.5 text-sm font-medium" :to="{path:'/auth/login'}">
+                Login
+              </NuxtLink>
+              <NuxtLink class="rounded-md dark:bg-gray-100 text-gray-950 px-5 py-2.5 text-sm font-medium ml-5" :to="{path:'/auth/register'}">
+                Register
+              </NuxtLink>
+            </div>
             <div class="hidden sm:flex">
               <DarkToggle class="rounded-md dark:bg-gray-100 text-gray-950 px-5 py-2.5 text-sm font-medium " />
             </div>
