@@ -1,1 +1,1 @@
-module.exports = { darkMode: 'class', plugins: [require('daisyui')] }
+module.exports = { darkMode: 'class', plugins: [require('@tailwindcss/typography'), require('daisyui')] }

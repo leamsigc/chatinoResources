@@ -32,3 +32,8 @@ definePageMeta({
     </NuxtLayout>
   </main>
 </template>
+<style scoped>
+::v-deep(hr) {
+  display: none;
+}
+</style>

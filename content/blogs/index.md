@@ -56,7 +56,7 @@ Our blog covers a wide range of topics related to the Chatino language and cultu
 
 
 
-<div class='prose max-w-5xl mx-auto  dark:text-slate-200 '>
+<div class='prose max-w-5xl mx-auto text-lg text-justify'>
 
 
 ## Discover the Fascinating World of Chatino Language and Culture
