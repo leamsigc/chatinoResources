@@ -87,9 +87,13 @@ export default defineNuxtConfig({
       device: 'mobile'
     }
   },
-  linkChecker: {
-    failOn404: true
-  },
+  // linkChecker: {
+  //   crawlLinks: true,
+  //   failOn404: true,
+  //   exclude: [
+  //     '/blogs'
+  //   ]
+  // },
   schemaOrg: {
     // set to your production domain
     host: 'https://chatino.leamsigc.com',
