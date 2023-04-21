@@ -35,7 +35,7 @@ const { numbers } = toRefs(props)
         <div class="camera" />
         <div class="display">
           <div
-            class="artboard artboard-demo phone-1 rounded-lg shadow-lg text-center indicator custom-bg text-white flex flex-col justify-center items-center"
+            class="artboard artboard-demo phone-1 rounded-lg shadow-lg text-center indicator custom-bg text-white flex flex-col justify-center items-center bg-gray-1"
           >
             <span class="indicator-item badge badge-info" />
             <div class="avatar mb-5">
@@ -49,10 +49,10 @@ const { numbers } = toRefs(props)
             <div class="text-5xl font-semibold text-gray-950 ">
               {{ item.Chatino }}
             </div>
-            <div class="text-sm font-thin text-gray-800 mt-4">
+            <div class="text-sm font-thin text-gray-700 dark:text-gray-7 mt-4">
               {{ item.Espanol }}
             </div>
-            <div class="text-sm font-light text-gray-800 mb-4">
+            <div class="text-sm font-light text-gray-700 dark:text-gray-7 mb-4">
               {{ item.English }}
             </div>
             <div class="text-xl text-gray-700">
