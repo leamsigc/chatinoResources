@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import { type User } from 'lucia-auth'
+// import { type User } from 'lucia-auth'
 
 /**
  *
@@ -12,9 +12,7 @@ import { type User } from 'lucia-auth'
  * @todo [ ] Integration test.
  * @todo [✔] Update the typescript.
  */
-interface Response {
-  user: User
-}
+
  type FetchError = Error & {
   statusCode: number
   statusMessage: string
@@ -23,7 +21,6 @@ interface Response {
   }
 }
 
-const userRef = useUser()
 const error = ref<FetchError | null>(null)
 
 const userInformation = ref({
@@ -33,19 +30,11 @@ const userInformation = ref({
 
 const HandleUserLogin = async () => {
   try {
-    const { user } = await $fetch<Response>('/api/auth/login', {
-      method: 'POST',
-      body: {
-        email: userInformation.value.email,
-        password: userInformation.value.password
-      }
+    await authLogin({
+      email: userInformation.value.email,
+      password: userInformation.value.password
     })
-    console.log(user)
-
-    userRef.value = user
-    navigateTo('/')
   } catch (resError) {
-    console.log(resError)
     error.value = resError as unknown as FetchError
   }
 }

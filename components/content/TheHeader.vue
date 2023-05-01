@@ -28,6 +28,12 @@ nav.value = [
     layout: 'home'
   },
   {
+    title: 'Feeds',
+    _path: '/feeds/home',
+    navLabel: 'Feeds',
+    layout: 'home'
+  },
+  {
     title: 'Aboutus',
     _path: '/about',
     navLabel: 'About',

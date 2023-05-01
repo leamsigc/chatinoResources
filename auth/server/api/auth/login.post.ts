@@ -15,6 +15,8 @@ export default defineEventHandler(async (event) => {
     const session = await auth.createSession(user.userId)
     const sessionCookie = auth.createSessionCookie(session)
 
+    setCookie(event, sessionCookie.name, sessionCookie.value, sessionCookie.attributes)
+
     return {
       session,
       sessionCookie,
@@ -31,8 +33,8 @@ export default defineEventHandler(async (event) => {
     }
 
     throw createError({
-      statusCode: 500,
-      statusMessage: 'Unknown error'
+      statusCode: 404,
+      statusMessage: 'Not found'
     })
   }
 })
