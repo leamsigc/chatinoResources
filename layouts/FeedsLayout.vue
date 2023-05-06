@@ -1,4 +1,5 @@
 <script lang="ts" setup>
+
 /**
  *
  * Component Description:Desc
@@ -15,12 +16,18 @@ const user = useUser()
 if (!user.value?.id) {
   await getUser()
 }
+const isMobile = useIsMobile()()
+useHead({ htmlAttrs: { 'data-theme': 'cupcake' } })
 </script>
 
 <template>
   <MainProvider>
     <MainViewer>
-      <slot />
+      <n-layout :position="isMobile ? 'static' : 'absolute'" class="root-layout">
+        <UserNavigationHeader>
+          <slot />
+        </UserNavigationHeader>
+      </n-layout>
     </MainViewer>
   </MainProvider>
 </template>

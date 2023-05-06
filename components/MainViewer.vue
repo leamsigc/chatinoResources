@@ -21,6 +21,6 @@ router.afterEach(() => loadingBar?.finish())
 </script>
 
 <template>
-  <router-view />
+  <slot />
 </template>
 <style scoped></style>

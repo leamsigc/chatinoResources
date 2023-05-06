@@ -32,6 +32,8 @@ export const authLogout = async () => {
   await $fetch('/api/auth/logout', {
     method: 'POST'
   })
+
+  await navigateTo('/')
   await useAuth().refresh()
 }
 

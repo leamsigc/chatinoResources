@@ -1,9 +1,9 @@
 import { H3Event, getCookie } from 'h3'
 import type { Session, User } from 'lucia-auth'
 import { SESSION_COOKIE_NAME } from 'lucia-auth'
-import { Auth } from '~~/base-auth'
+import { auth } from '../base-auth'
 
-export async function getSessionUser (event: H3Event, auth: Auth): Promise<
+export async function getSessionUser (event: H3Event): Promise<
 | { user: User; session: Session }
 | {
   user: null
@@ -12,20 +12,16 @@ export async function getSessionUser (event: H3Event, auth: Auth): Promise<
 > {
   try {
     const sessionId = getCookie(event, SESSION_COOKIE_NAME)
-    console.log('sessionId', sessionId)
 
     if (!sessionId) { throw new Error('No session cookie') }
 
-    const session = await auth.validateSession(sessionId)
-    console.log('session', session)
+    const { user, session } = await auth.validateSessionUser(sessionId)
 
-    const sessionCookie = auth.createSessionCookie(session)
-    console.log('sessionCookie', sessionCookie)
+    // const sessionCookie = auth.createSessionCookie(session)
 
-    const user = await auth.getSessionUser(session.sessionId)
-    setCookie(event, sessionCookie.name, sessionCookie.value, sessionCookie.attributes)
+    // setCookie(event, sessionCookie.name, sessionCookie.value, sessionCookie.attributes)
 
-    return user
+    return { user, session }
   } catch {
     return {
       session: null,

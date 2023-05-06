@@ -7,8 +7,6 @@ export default defineEventHandler(async (event) => {
   event.context.user = user
   if (user?.id) {
     const authUser = await auth.getUser(user?.id)
-    console.log('authUser', authUser)
-
     return { user: authUser }
   } else {
     throw createError({
