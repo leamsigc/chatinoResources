@@ -1,12 +1,11 @@
-import { PrismaClient } from '@prisma/client'
 
 import prisma from '@lucia-auth/adapter-prisma'
 import lucia from 'lucia-auth'
 
-import type { User } from 'lucia-auth'
+import { baseDbClient } from '.../../../lib/PrismaHelpers'
 
 export const auth = lucia({
-  adapter: prisma(new PrismaClient()), // TODO: initialize Prisma client
+  adapter: prisma(baseDbClient), // TODO: initialize Prisma client
   env: 'DEV', // "PROD" if in prod,
   transformDatabaseUser: (databaseUser) => {
     return {

@@ -1,4 +1,5 @@
 import { PrismaClient } from '@prisma/client'
+import { baseDbClient } from '~~/lib/PrismaHelpers'
 
 let prisma: PrismaClient
 declare module 'h3' {
@@ -9,7 +10,7 @@ declare module 'h3' {
 
 export default eventHandler((event) => {
   if (!prisma) {
-    prisma = new PrismaClient()
+    prisma = baseDbClient
   }
   event.context.prisma = prisma
 })

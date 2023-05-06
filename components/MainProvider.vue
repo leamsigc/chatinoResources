@@ -14,7 +14,7 @@
 </script>
 
 <template>
-  <n-config-provider>
+  <NConfigProvider>
     <n-global-style />
     <n-loading-bar-provider>
       <n-message-provider>
@@ -23,6 +23,6 @@
         </n-dialog-provider>
       </n-message-provider>
     </n-loading-bar-provider>
-  </n-config-provider>
+  </NConfigProvider>
 </template>
 <style></style>
