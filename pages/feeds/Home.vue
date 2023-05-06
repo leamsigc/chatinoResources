@@ -21,7 +21,8 @@ async function handleSignOut () {
 }
 
 definePageMeta({
-  auth: true
+  auth: true,
+  layout: 'feeds-layout'
 })
 </script>
 

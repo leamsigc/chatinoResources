@@ -3,13 +3,16 @@ import type { User } from 'lucia-auth/auth'
 export const useAuth = () => useNuxtApp().$auth
 
 export const authLogin = async ({ email, password }:{email: string, password: string}) => {
-  await $fetch('/api/auth/login', {
+  const request = await $fetch('/api/auth/login', {
     method: 'POST',
     body: {
       email,
       password
     }
   })
+  await getUser()
+  console.log(request)
+
   useAuth().redirectTo.value = null
   // await useAuth().refresh()
   await navigateTo('/feeds/home')
@@ -33,9 +36,12 @@ export const authLogout = async () => {
   await useAuth().refresh()
 }
 
-export async function getUser (): Promise<Readonly<User> | null> {
+export const getUser = async (): Promise<Readonly<User> | null> => {
   try {
-    const { user } = await $fetch<{ user: User }>('/api/auth/user')
+    const { user } = await $fetch<{ user: User }>('/api/auth/me')
+    useUser().value = user
+    console.log(user)
+
     return user
   } catch (error) {
     return null

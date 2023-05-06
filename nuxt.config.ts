@@ -85,6 +85,7 @@ export default defineNuxtConfig({
     scanner: {
       // simulate a desktop device
       device: 'mobile'
+
     }
   },
   // linkChecker: {

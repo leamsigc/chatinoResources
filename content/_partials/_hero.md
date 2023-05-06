@@ -1,4 +1,5 @@
 ---
+layout: home
 title: Listen to the Best Chatino Language Podcasts Online
 description: Discover the most popular Chatino Language podcasts and immerse yourself in the world of Chatino Language and culture.
 

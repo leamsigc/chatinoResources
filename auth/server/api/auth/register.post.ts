@@ -34,12 +34,10 @@ export default defineEventHandler(async (event) => {
     }
   } catch (e) {
     const error = e as Error
-    console.log(e)
-
-    if (error.message === 'AUTH_DUPLICATE_PROVIDER_ID') {
+    if (error.message === 'AUTH_DUPLICATE_PROVIDER_ID' || error.message) {
       throw createError({
         statusCode: 400,
-        statusMessage: 'Username already in use'
+        statusMessage: 'Email already exists or invalid email'
       })
     }
 

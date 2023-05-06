@@ -1,4 +1,5 @@
 <script lang="ts" setup>
+import type { ParsedContent } from '@nuxt/content/dist/runtime/types'
 /**
  *
  * Component Description:Desc
@@ -12,9 +13,11 @@
  */
 const blogs = await queryContent('blogs').limit(5).find()
 const { data } = await useAsyncData('hero', () =>
-  queryContent('_partials', '_hero').findOne()
+  queryContent<ParsedContent>('_partials', '_hero').findOne()
 )
-useContentHead(data)
+
+useContentHead(data as unknown as ParsedContent)
+definePageMeta({ layout: 'home' })
 </script>
 
 <template>

@@ -40,12 +40,10 @@ const HandleUserRegister = async () => {
         password: userInformation.value.password
       }
     })
-    console.log(user)
 
     userRef.value = user
-    navigateTo('/')
+    navigateTo('/feeds/home')
   } catch (resError) {
-    console.log(resError)
     error.value = resError as unknown as FetchError
   }
 }
@@ -54,7 +52,7 @@ const errorMessage = computed(() => (error.value as FetchError)?.data?.message ?
 </script>
 
 <template>
-  <div class="min-h-screen bg-green flex justify-center items-center">
+  <div class="min-h-screen bg-green flex justify-center items-center overflow-hidden relative">
     <div class="absolute w-60 h-60 rounded-xl bg-green-2 -top-5 -left-16 z-0 transform rotate-45 hidden md:block" />
     <div class="absolute w-48 h-48 rounded-xl bg-green-2 -bottom-6 -right-10 transform rotate-12 hidden md:block" />
     <div class="py-12 px-12 bg-white rounded-2xl shadow-xl z-20">

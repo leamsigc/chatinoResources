@@ -8,9 +8,7 @@ export default defineNuxtPlugin(async (nuxtApp) => {
 
   const { data, refresh } =
    await useFetch<{session:Session, user:User}>('/api/auth/session')
-
-  console.log('session', data.value?.session)
-  console.log('session', data.value?.user)
+  const user = useUser()
 
   const loggedIn: any = computed(() => !!data.value?.user?.id)
 
@@ -44,6 +42,9 @@ export default defineNuxtPlugin(async (nuxtApp) => {
       if (!loggedIn && currentRoute.meta.auth) {
         redirectTo.value = currentRoute.path
         await navigateTo('/auth/login')
+      }
+      if (loggedIn.value && data.value?.user) {
+        user.value = data.value.user
       }
     })
   }
