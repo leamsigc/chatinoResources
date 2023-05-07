@@ -16,8 +16,11 @@ model AuthUser {
   username       String        @unique
   auth_session   AuthSession[]
   auth_key       AuthKey[]
+  translatio     Translation[]
+  comment        Comment[]
   email          String        @unique
-  email_verified Boolean
+  email_verified Boolean       @default(false)
+  Like           Like[]
 
   @@map("auth_user")
 }
@@ -43,4 +46,49 @@ model AuthKey {
 
   @@index([user_id])
   @@map("auth_key")
+}
+
+model Translation {
+  id       String    @id @unique
+  language String
+  example  String?
+  label    String?
+  chatino  String
+  english  String?
+  spanish  String?
+  rate     BigInt
+  audioUrl String?
+  videoUrl String?
+  imageUrl String
+  comments Comment[]
+
+  //relation to the user who created the translation
+  user    AuthUser @relation(references: [id], fields: [user_id], onDelete: Cascade)
+  user_id String
+  Like    Like[]
+
+  @@map("translation")
+}
+
+model Comment {
+  id             String      @id @unique
+  comment        String
+  translation    Translation @relation(references: [id], fields: [translation_id], onDelete: Cascade)
+  translation_id String
+  user           AuthUser    @relation(references: [id], fields: [user_id], onDelete: Cascade)
+  user_id        String
+
+  @@map("comment")
+}
+
+//Create a like model for prisma to use to create the table in the database and the relations to the other tables in the database  the like shoulb unique for user and can be like or dislike
+model Like {
+  id             String      @id @unique
+  like           Boolean
+  translation    Translation @relation(references: [id], fields: [translation_id], onDelete: Cascade)
+  translation_id String
+  user           AuthUser    @relation(references: [id], fields: [user_id], onDelete: Cascade)
+  user_id        String
+
+  @@map("like")
 }

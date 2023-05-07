@@ -110,11 +110,11 @@ const HandleCreateTranslation = () => {
       v-model:show="modalState"
       :trap-focus="false"
     >
-      <main class="p-10 bg-light min-w-3xl rounded-lg">
+      <main class="p-10 bg-light max-w-6xl rounded-lg">
         <h3 class="text-2xl">
           Create new translation
         </h3>
-        <div class="my-10">
+        <div class="my-10 grid grid-cols-2 gap-3">
           <n-form
             :model="model"
             label-placement="left"
@@ -211,79 +211,79 @@ const HandleCreateTranslation = () => {
                 />
               </n-form-item>
             </div>
-            <div class="p-10 my-5 bg-emerald bg-opacity-20 rounded-xl">
-              <h3 class="text-2xl mb-5">
-                Preview
-              </h3>
-              <div class="card w-full bg-base-100 shadow-xl">
-                <figure>
-                  <img :src="model.imageUrl ? model.imageUrl :'https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg'" alt="Chatino">
-                </figure>
-                <div class="card-actions">
-                  <n-button-group>
-                    <n-button type="success">
-                      Image
-                    </n-button>
-                    <n-button ghost>
-                      Video
-                    </n-button>
-                    <n-button ghost>
-                      Audio
-                    </n-button>
-                  </n-button-group>
-                </div>
-                <div class="card-body">
-                  <span class="text-11px">Chatino: {{ model.language }}</span>
-                  <h2 class="card-title">
-                    <span class="">{{ model.chatino }}</span>
-                    <div class="badge badge-secondary text-11px">
-                      {{ model.rate }}
-                    </div>
-                  </h2>
-                  <div class="flex flex-col">
-                    <span class="text-11px">Example:</span>
-                    <span>{{ model.example }}</span>
-                  </div>
-                  <div class="flex flex-col">
-                    <span class="text-11px">Spanish:</span>
-                    <span>{{ model.spanish }}</span>
-                  </div>
-                  <div class="flex flex-col">
-                    <span class="text-11px">English:</span>
-                    <span>{{ model.english }}</span>
-                  </div>
-                  <div class="card-actions justify-end">
-                    <n-badge :value="0" :max="15">
-                      <n-button tertiary circle type="success">
-                        <template #icon>
-                          <MainIcons type="like" />
-                        </template>
-                      </n-button>
-                    </n-badge>
-                    <n-badge :value="0" :max="15">
-                      <n-button tertiary circle type="success">
-                        <template #icon>
-                          <MainIcons type="dislike" />
-                        </template>
-                      </n-button>
-                    </n-badge>
-                    <n-badge :value="0" :max="15">
-                      <n-button tertiary circle type="success">
-                        <template #icon>
-                          <MainIcons type="comment" />
-                        </template>
-                      </n-button>
-                    </n-badge>
-                  </div>
-                </div>
-              </div>
-            </div>
             <div style="display: flex; justify-content: flex-end">
               <n-button round type="primary" @click="HandleCreateTranslation">
-                Validate
+                Create
               </n-button>
             </div>
           </n-form>
+          <div class="p-10  bg-emerald bg-opacity-20 rounded-xl">
+            <h3 class="text-2xl mb-5">
+              Preview
+            </h3>
+            <div class="card w-full bg-base-100 shadow-xl">
+              <figure>
+                <img :src="model.imageUrl ? model.imageUrl :'https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg'" alt="Chatino">
+              </figure>
+              <div class="card-actions">
+                <n-button-group>
+                  <n-button type="success">
+                    Image
+                  </n-button>
+                  <n-button ghost>
+                    Video
+                  </n-button>
+                  <n-button ghost>
+                    Audio
+                  </n-button>
+                </n-button-group>
+              </div>
+              <div class="card-body">
+                <span class="text-11px">Chatino: {{ model.language }}</span>
+                <h2 class="card-title">
+                  <span class="">{{ model.chatino }}</span>
+                  <div class="badge badge-secondary text-11px">
+                    {{ model.rate }}
+                  </div>
+                </h2>
+                <div class="flex flex-col">
+                  <span class="text-11px">Example:</span>
+                  <span>{{ model.example }}</span>
+                </div>
+                <div class="flex flex-col">
+                  <span class="text-11px">Spanish:</span>
+                  <span>{{ model.spanish }}</span>
+                </div>
+                <div class="flex flex-col">
+                  <span class="text-11px">English:</span>
+                  <span>{{ model.english }}</span>
+                </div>
+                <div class="card-actions justify-end">
+                  <n-badge :value="0" :max="15">
+                    <n-button tertiary circle type="success">
+                      <template #icon>
+                        <MainIcons type="like" />
+                      </template>
+                    </n-button>
+                  </n-badge>
+                  <n-badge :value="0" :max="15">
+                    <n-button tertiary circle type="success">
+                      <template #icon>
+                        <MainIcons type="dislike" />
+                      </template>
+                    </n-button>
+                  </n-badge>
+                  <n-badge :value="0" :max="15">
+                    <n-button tertiary circle type="success">
+                      <template #icon>
+                        <MainIcons type="comment" />
+                      </template>
+                    </n-button>
+                  </n-badge>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </main>
     </n-modal>
