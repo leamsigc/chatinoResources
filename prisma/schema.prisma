@@ -21,8 +21,18 @@ model AuthUser {
   email          String        @unique
   email_verified Boolean       @default(false)
   Like           Like[]
+  role_id        String
+  role           Role          @relation(references: [id], fields: [role_id], onDelete: NoAction)
 
   @@map("auth_user")
+}
+
+model Role {
+  id       String     @id @unique
+  name     String
+  AuthUser AuthUser[]
+
+  @@map("role")
 }
 
 model AuthSession {

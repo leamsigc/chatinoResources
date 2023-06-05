@@ -6,12 +6,13 @@ import { baseDbClient } from '.../../../lib/PrismaHelpers'
 
 export const auth = lucia({
   adapter: prisma(baseDbClient), // TODO: initialize Prisma client
-  env: 'DEV', // "PROD" if in prod,
+  env: process.dev ? 'DEV' : 'PROD',
   transformDatabaseUser: (databaseUser) => {
     return {
       id: databaseUser.id,
       email: databaseUser.email,
-      username: databaseUser.username
+      username: databaseUser.username,
+      emailVerified: databaseUser.email_verified
     }
   }
 })

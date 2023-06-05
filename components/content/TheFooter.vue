@@ -17,7 +17,7 @@ const { data } = await useAsyncData('footer', () =>
 </script>
 
 <template>
-  <footer aria-label="Site Footer" class="bg-white dark:bg-slate-900 pt-20">
+  <footer aria-label="Site Footer" class="bg-transparent pt-20">
     <div class="max-w-screen-xl px-4 pt-16 pb-8 mx-auto sm:px-6 lg:px-8 lg:pt-24">
       <div class="text-center flex justify-center">
         <ContentRenderer v-if="data" :value="data">
@@ -29,7 +29,7 @@ const { data } = await useAsyncData('footer', () =>
       </div>
 
       <div
-        class="pt-8 mt-16 border-t border-gray-100 sm:flex sm:items-center sm:justify-between lg:mt-24"
+        class="pt-8 mt-16 border-t border-gray-100 dark:border-dark sm:flex sm:items-center sm:justify-between lg:mt-24"
       >
         <nav aria-label="Footer Navigation - Support">
           <ul class="flex flex-wrap justify-center gap-4 text-xs lg:justify-end">

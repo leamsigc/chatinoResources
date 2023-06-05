@@ -54,8 +54,8 @@ const errorMessage = computed(() => (error.value as FetchError)?.data?.message ?
         </h1>
       </div>
       <div class="space-y-4">
-        <input v-model="userInformation.email" type="text" placeholder="Email Addres" class="block text-sm py-3 px-4 rounded-lg w-full border outline-none">
-        <input v-model="userInformation.password" type="text" placeholder="Password" class="block text-sm py-3 px-4 rounded-lg w-full border outline-none">
+        <input v-model="userInformation.email" type="email" placeholder="Email Address" class="block text-sm py-3 px-4 rounded-lg w-full border outline-none">
+        <input v-model="userInformation.password" type="password" placeholder="Password" class="block text-sm py-3 px-4 rounded-lg w-full border outline-none">
       </div>
       <div class="text-center mt-6">
         <button class="py-3 w-64 text-xl text-white bg-green rounded-2xl" @click="HandleUserLogin">

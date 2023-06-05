@@ -1,20 +1,18 @@
 ---
 layout: 'blog'
-navLabel: 'Blogs'
-title: Blog-Discover the Fascinating World of Chatino Language and Culture
-description: Welcome to our blog dedicated to exploring the rich and vibrant world of Chatino language and culture. Join us on a journey of discovery as we explore the history, traditions, and language of this fascinating people.
-draft: true
-navigation: true
+title: Number in chatino language
+description: Learn the number in chatino, Join us on a journey of discovery as we explore the history, traditions, and language of this fascinating people.
+
 
 readTime: '3 MIN'
-tag: vuejs
+tag: chatino, language, culture, blog, numbers
 author: 'WRITTEN BY Ismael Garcia'
 publishedAt: '15-06-2022'
 
 
 
 image:
-    src: '/image.png'
+    src: '/blog/1.png'
     alt:  'Discover the Fascinating World of Chatino Language and Culture'
     width: 400
     height: 300
@@ -35,28 +33,29 @@ head:
             content:  'Welcome to our blog dedicated to exploring the rich and vibrant world of Chatino language and culture. Join us on a journey of discovery as we explore the history, traditions, and language of this fascinating people.'
 
 ---
-::Hero
+####
+
+
+::blogHero
 ---
-
-heroBtns:
-    -
-        textContent: 'Numbers'
-        link: '/numbers'
-
-
+imageUrl: '/blog/1.png'
+imageAlt: 'Chatino language counting system'
 ---
 #title
-Discover the Fascinating World of
-#subTitle
-Chatino Language and Culture
+Learn the number in chatino, Join us on a journey of discovery as we explore the history
+#username
+Ismael Garcia
+#date
+15-06-2022
 #description
-Our blog covers a wide range of topics related to the Chatino language and culture. From language lessons and grammar tips to cultural events and traditions, we offer a comprehensive and engaging look into the world of the Chatino people.
+Learn the number in chatino, Join us on a journey of discovery as we explore the history, traditions, and language of this fascinating people.
 ::
 
 
 
 
-<div class='prose max-w-5xl px-5 mx-auto text-left leading-5 text-lg'>
+<div class='prose max-w-5xl mx-auto text-left leading-5 text-lg px-5'>
+
 
 ## Discover the Fascinating World of Chatino Language and Culture
 
@@ -69,11 +68,12 @@ or simply curious about this unique and fascinating culture,
 our blog has something for you. Our team of experts is dedicated to providing accurate
 and engaging content that will help you deepen your knowledge and appreciation of the Chatino language and culture.
 
-
+<p class='text-center max-w-sm'>
 So why wait?
-**Join us** on a journey of discovery today
-and explore the rich and vibrant world of
-**Chatino language** and culture!
+<strong>Join us</strong> on a journey of discovery today
+and explore the rich and vibrant world of</br>
+<strong>Chatino language</strong> and culture!
+</p>
 
 </div>
 

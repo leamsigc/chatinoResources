@@ -68,7 +68,7 @@ const errorMessage = computed(() => (error.value as FetchError)?.data?.message ?
         {{ errorMessage }}
       </p>
       <div class="space-y-4 text-left">
-        <input v-model="userInformation.email" type="email" placeholder="Email Addres" class="block text-sm py-3 px-4 rounded-lg w-full border outline-none">
+        <input v-model="userInformation.email" type="email" placeholder="Email Address" class="block text-sm py-3 px-4 rounded-lg w-full border outline-none">
         <input v-model="userInformation.password" type="password" placeholder="Password" class="block text-sm py-3 px-4 rounded-lg w-full border outline-none">
       </div>
       <div class="text-center mt-6">
@@ -76,7 +76,9 @@ const errorMessage = computed(() => (error.value as FetchError)?.data?.message ?
           Create Account
         </button>
         <p class="mt-4 text-sm">
-          Already Have An Account? <span class="underline  cursor-pointer"> Sign In</span>
+          Already Have An Account? <RouterLink to="/auth/login" class="underline  cursor-pointer">
+            Sign In
+          </RouterLink>
         </p>
       </div>
     </div>

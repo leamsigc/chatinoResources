@@ -20,9 +20,11 @@ export default defineEventHandler(async (event) => {
       attributes: {
         email,
         username: email,
-        email_verified: false
+        email_verified: true,
+        role_id: 'admin'
       }
     })
+
     const session = await auth.createSession(user.id)
     const sessionCookie = auth.createSessionCookie(session)
     setResponseStatus(201)
@@ -33,6 +35,8 @@ export default defineEventHandler(async (event) => {
       user
     }
   } catch (e) {
+    console.log(e)
+
     const error = e as Error
     if (error.message === 'AUTH_DUPLICATE_PROVIDER_ID' || error.message) {
       throw createError({

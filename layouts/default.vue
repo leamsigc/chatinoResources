@@ -13,9 +13,9 @@
 </script>
 
 <template>
-  <main text-center class="bg-white dark:bg-slate-950">
+  <main text-center class="bg-white dark:bg-slate-9 text-slate-9 dark:text-slate-3">
     <TheHeader />
-    <section class="">
+    <section class="dark:bg-transparent">
       <slot />
     </section>
     <TheFooter />
