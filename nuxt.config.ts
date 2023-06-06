@@ -4,6 +4,12 @@ setAbsoluteSqliteDatabaseUrlForPrisma()
 
 export default defineNuxtConfig({
   extends: ['nuxt-seo-kit', '@sidebase/core', './auth'],
+
+  nitro:{
+    experimental:{
+      openAPI:true
+    }
+  },
   runtimeConfig: {
     version: '0.0.1',
     indexable: true,

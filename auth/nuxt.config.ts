@@ -4,5 +4,10 @@ export default defineNuxtConfig({
     auth: {
       name: 'local-auth'
     }
+  },
+  nitro:{
+    experimental:{
+      openAPI:true
+    }
   }
 })

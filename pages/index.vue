@@ -28,7 +28,7 @@ definePageMeta({ layout: 'home' })
         <p>No content found.</p>
       </template>
     </ContentRenderer>
-    <main class="bg-slate-900 p-3 md:p-10 text-slate-50">
+    <main class="dark:bg-slate-950 bg-white p-3 md:p-10 dark:text-slate-50 text-slate-9">
       <div class="mx-auto max-w-7xl">
         <div class="md:grid grid-cols-1 gap-20 md:grid-cols-12">
           <Nuxt-link

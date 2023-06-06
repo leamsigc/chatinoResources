@@ -34,7 +34,7 @@ const handleSignOut = async () => {
           <div class="flex-1">
             <a class="btn btn-ghost normal-case text-xl px-0">CH</a>
           </div>
-          <div class="flex-none">
+          <div class="flex-none flex justify-center items-center">
             <div class="dropdown dropdown-end">
               <label tabindex="0" class="btn btn-ghost btn-circle">
                 <div class="indicator">
@@ -60,7 +60,7 @@ const handleSignOut = async () => {
                   <img src="/img/logo-sm.png">
                 </div>
               </label>
-              <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
+              <ul tabindex="0" class="menu menu-sm dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 z-1">
                 <li>
                   <a class="justify-between">
                     Profile
@@ -95,8 +95,8 @@ const handleSignOut = async () => {
       <label for="my-drawer-3" class="drawer-overlay" />
       <ul class="menu p-4 w-80 bg-base-100">
         <!-- Sidebar content here -->
-        <li><a>Sidebar Item 1</a></li>
-        <li><a>Sidebar Item 2</a></li>
+        <li><a>Home</a></li>
+        <li><a>Profile</a></li>
       </ul>
     </div>
   </div>

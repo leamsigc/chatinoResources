@@ -17,7 +17,7 @@ const { data } = await useAsyncData('footer', () =>
 </script>
 
 <template>
-  <footer aria-label="Site Footer" class="bg-transparent pt-20">
+  <footer aria-label="Site Footer" class="dark:bg-slate-950 bg-white pt-20">
     <div class="max-w-screen-xl px-4 pt-16 pb-8 mx-auto sm:px-6 lg:px-8 lg:pt-24">
       <div class="text-center flex justify-center">
         <ContentRenderer v-if="data" :value="data">
