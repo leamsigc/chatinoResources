@@ -23,7 +23,7 @@ useHead({ htmlAttrs: { 'data-theme': 'cupcake' } })
 <template>
   <MainProvider>
     <MainViewer>
-      <n-layout :position="isMobile ? 'static' : 'absolute'" class="root-layout">
+      <n-layout :position="isMobile ? 'static' : 'absolute'" class="root-layout dark:bg-slate-950 bg-white dark:text-slate-50 text-slate-9">
         <UserNavigationHeader>
           <slot />
         </UserNavigationHeader>
