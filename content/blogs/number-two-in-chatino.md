@@ -11,7 +11,7 @@ title: "Learn How to Count in Chatino Language: The Number Two"
 description: "Discover the basics of Chatino language counting system and learn how to say the number Two in Chatino with our step-by-step guide. Start learning now!"
 
 image:
-    src: '/blog/1.png'
+    src: '/blog/two.png'
     alt: 'Chatino language counting system'
     width: 1200
     height: 630
@@ -31,11 +31,11 @@ head:
 
 ---
 
-
+![two.png](/blog/two.png)
 
 ::blogHero
 ---
-imageUrl: '/blog/1.png'
+imageUrl: '/blog/two.png'
 imageAlt: 'Chatino language counting system'
 ---
 
