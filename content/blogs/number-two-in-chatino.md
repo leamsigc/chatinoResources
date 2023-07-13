@@ -5,7 +5,7 @@ navigation: false
 readTime: '5 MIN'
 tag: 'chatino,number,text'
 author: 'WRITTEN BY Ismael Garcia'
-publishedAt: '15-06-2022'
+publishedAt: '13-07-2023'
 
 title: "Learn How to Count in Chatino Language: The Number Two"
 description: "Discover the basics of Chatino language counting system and learn how to say the number Two in Chatino with our step-by-step guide. Start learning now!"
@@ -47,7 +47,7 @@ Discover the basics of Chatino language counting system and learn how to say the
 Ismael Garcia
 
 #date
-Apr,02,2023
+Jun,13,2023
 
 
 #description

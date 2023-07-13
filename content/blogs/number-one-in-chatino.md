@@ -11,7 +11,7 @@ title: "Learn How to Count in Chatino Language: The Number One"
 description: "Discover the basics of Chatino language counting system and learn how to say the number one in Chatino with our step-by-step guide. Start learning now!"
 
 image:
-    src: '/blog/1.png'
+    src: 'https://chatino-resources.vercel.app/blog/1.png'
     alt: 'Chatino language counting system'
     width: 1200
     height: 630

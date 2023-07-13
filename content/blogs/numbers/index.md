@@ -54,10 +54,10 @@ Learn the number in chatino, Join us on a journey of discovery as we explore the
 
 
 
-<div class='prose max-w-5xl mx-auto text-left leading-5 text-lg px-5'>
+<div class='prose max-w-5xl mx-auto text-left leading-5 text-lg px-2'>
 
 
-## Discover the Fascinating World of Chatino Language and Culture
+# Discover the Fascinating World of Chatino Language and Culture
 
 Welcome to our blog dedicated to exploring the rich and vibrant world of Chatino language and culture.
 Join us on a journey of discovery as we explore the history, traditions, and language of this fascinating people.
