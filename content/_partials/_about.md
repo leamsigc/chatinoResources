@@ -39,6 +39,7 @@ At Chatino.leamsigc.com, we are passionate about promoting and preserving the Ch
 ::
 
 
+
 <div class='container mx-auto py-24 dark:text-white prose'>
 
 ## Our mission Is:
@@ -56,3 +57,5 @@ Join us on our journey of discovery and help us preserve the Chatino language an
 
 </div>
 </div>
+
+
