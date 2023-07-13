@@ -31,7 +31,7 @@ head:
 
 ::Hero
 #title
-About Us - Connecting the World to
+About Us - Connecting the World to 
 #subTitle
 The Chatino Language and Culture
 #description
